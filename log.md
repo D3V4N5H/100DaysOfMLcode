@@ -10,7 +10,7 @@ I'm following guidelines from this Siraj video: [100 Days of ML Code Challenge](
 5. Create a Solution
 
 # Day 0: September 18, 2018
-
+[**Full Report on Medium Article**](http://sync.dvnsh.com/mlday0)
 ## Today's Progress:
 ✅ Step 1: Picked Music Industry  
 ✅ Step 2: Found a Problem: ProActive Music Selection
@@ -30,7 +30,7 @@ Then **Linguistic Analysis** of song lyrics will help me detect and interpret em
 ## Link to work: [StarBoy](https://github.com/D3V4N5H/StarBoy)
 
 # Day 1: September 19, 2018
-
+[**Full Report on Medium Article**](http://sync.dvnsh.com/mlday1)
 ## Today's Progress:
 ✅ Coded together a Python script with officially supported 'idiomatic' Neo4j Python driver v1 to use GraphDatabase
 
