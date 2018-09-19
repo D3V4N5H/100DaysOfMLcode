@@ -28,3 +28,14 @@ The idea is simple: The song should match the environment. Initially, I will try
 Then **Linguistic Analysis** of song lyrics will help me detect and interpret emotions, social tendencies, and language style to analyze emotions and feelings that musical artists express in their songs.
 
 ## Link to work: [StarBoy](https://github.com/D3V4N5H/StarBoy)
+
+# Day 1: September 19, 2018
+
+## Today's Progress:
+✅ Coded together a Python script with officially supported 'idiomatic' Neo4j Python driver v1 to use GraphDatabase
+
+## Thoughts:
+NLP is possible to implement natively in Node4j using Cypher queries.  
+However, the ability to access it from python will open doors to many new possibilities
+
+## Link to work: [StarBoy.py](https://github.com/D3V4N5H/StarBoy/blob/master/StarBoy.py)
