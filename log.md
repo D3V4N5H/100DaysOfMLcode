@@ -16,7 +16,6 @@ I'm following guidelines from this Siraj video: [100 Days of ML Code Challenge](
 ✅ Step 2: Found a Problem: ProActive Music Selection
 Made Word-Pair Frequency Graph in Neo4j using Cypher language
 Used Starboy lyrics csv
-
 ## Thoughts:
 This idea comes from a movie as old as me, Flubber (1997).  
 Robin Williams plays 'The Professor' with this cute flying robot 'Weebo'. It [uses memes to communicate](https://youtu.be/3iO14Rxdrwk)  
@@ -26,16 +25,22 @@ Hopefully, I will be able to code an AI so everyone can train it to their taste,
 
 The idea is simple: The song should match the environment. Initially, I will try **Lyrics Text Analysis** to match the lyrics with the words spoken.  
 Then **Linguistic Analysis** of song lyrics will help me detect and interpret emotions, social tendencies, and language style to analyze emotions and feelings that musical artists express in their songs.
-
-## Link to work: [StarBoy](https://github.com/D3V4N5H/StarBoy)
+## Link to work: [StarBoy Repository](https://github.com/D3V4N5H/StarBoy)
 
 # Day 1: September 19, 2018
 [**Full Report on Medium Article**](http://sync.dvnsh.com/mlday1)
 ## Today's Progress:
 ✅ Coded together a Python script with officially supported 'idiomatic' Neo4j Python driver v1 to use GraphDatabase
-
 ## Thoughts:
 NLP is possible to implement natively in Node4j using Cypher queries.  
 However, the ability to access it from python will open doors to many new possibilities
-
 ## Link to work: [StarBoy.py](https://github.com/D3V4N5H/StarBoy/blob/master/StarBoy.py)
+
+# Day 2: September 20, 2018
+[**Full Report on Medium Article**](http://sync.dvnsh.com/mlday2)
+## Today's Progress:
+✅ Fetch word frequencies into a Python dictionary  
+To achieve this, I'm using Auto-commit transactions in the driver's session.
+## Thoughts:
+I concluded that a dictionary would be the right data structure to store the frequencies of each word
+## Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/962e549919bba2d6375cb52ae856419f19cad604)
