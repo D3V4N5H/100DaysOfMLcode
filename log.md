@@ -44,3 +44,13 @@ To achieve this, I'm using Auto-commit transactions in the driver's session.
 ## Thoughts:
 I concluded that a dictionary would be the right data structure to store the frequencies of each word
 ## Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/962e549919bba2d6375cb52ae856419f19cad604)
+
+# Day 3: September 21, 2018
+[**Full Report on Medium Article**](http://sync.dvnsh.com/mlday3)
+## Today's Progress:
+✅ Word-Pair Frequency into Python Dictionary with tuples as keys and count as values
+
+## Thoughts:
+I made the variable name easier to read.  
+Now that I have the Text Adjacency Graph, I can go ahead for the Mining Word Associations
+## Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/05c96ab331569f1831943aa3d168921935e88888)
