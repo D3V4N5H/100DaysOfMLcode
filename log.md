@@ -13,8 +13,8 @@ I'm following guidelines from this Siraj video: [100 Days of ML Code Challenge](
 [**Full Report on Medium Article**](http://sync.dvnsh.com/mlday0)
 ## Today's Progress:
 ✅ Step 1: Picked Music Industry  
-✅ Step 2: Found a Problem: ProActive Music Selection
-Made Word-Pair Frequency Graph in Neo4j using Cypher language
+✅ Step 2: Found a Problem: ProActive Music Selection  
+✅ Made Word-Pair Frequency Graph in Neo4j using Cypher language
 Used Starboy lyrics csv
 ## Thoughts:
 This idea comes from a movie as old as me, Flubber (1997).  
@@ -49,7 +49,6 @@ I concluded that a dictionary would be the right data structure to store the fre
 [**Full Report on Medium Article**](http://sync.dvnsh.com/mlday3)
 ## Today's Progress:
 ✅ Word-Pair Frequency into Python Dictionary with tuples as keys and count as values
-
 ## Thoughts:
 I made the variable name easier to read.  
 Now that I have the Text Adjacency Graph, I can go ahead for the Mining Word Associations
@@ -58,8 +57,8 @@ Now that I have the Text Adjacency Graph, I can go ahead for the Mining Word Ass
 # Day 4: September 22, 2018
 [**Full Report on Medium Article**](http://sync.dvnsh.com/mlday4)
 ## Today's Progress:
-✅ Implemented Left1, Right1, Count Left1 and Right1, Find highest Left1 and Right1
-✅ Uploaded starboy.csv
+✅ Implemented Left1, Right1, Count Left1 and Right1, Find highest Left1 and Right1  
+✅ Uploaded starboy.csv  
 ✅ Created a list of queries on Github repository for everyone else to try the same
 ## Thoughts:
 I was amazed by the fact that the grammar articles "the" and "a" came out to be the most frequent Adjacent nodes in the graph.
