@@ -54,3 +54,16 @@ I concluded that a dictionary would be the right data structure to store the fre
 I made the variable name easier to read.  
 Now that I have the Text Adjacency Graph, I can go ahead for the Mining Word Associations
 ## Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/05c96ab331569f1831943aa3d168921935e88888)
+
+# Day 4: September 22, 2018
+[**Full Report on Medium Article**](http://sync.dvnsh.com/mlday4)
+## Today's Progress:
+✅ Implemented Left1, Right1, Count Left1 and Right1, Find highest Left1 and Right1
+✅ Uploaded starboy.csv
+✅ Created a list of queries on Github repository for everyone else to try the same
+## Thoughts:
+I was amazed by the fact that the grammar articles "the" and "a" came out to be the most frequent Adjacent nodes in the graph.
+I'm not sure how implementing Left2 and Right2 will help me, and how to implement those the right way.
+## Links to work:
+[starboy.csv](https://github.com/D3V4N5H/StarBoy/blob/master/starboy.csv)  
+[Queries](https://github.com/D3V4N5H/StarBoy/blob/master/CypherQueries)
