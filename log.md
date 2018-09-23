@@ -72,7 +72,7 @@ I'm not sure how implementing Left2 and Right2 will help me, and how to implemen
 ## Today's Progress:
 ✅ Mining Paradigmatic Word Associations using Jaccard Index to compute similarity
 ## Thoughts:
-Very successful, many interesting discoveries
+Very successful, many interesting discoveries  
 Yet I'm still surprised and sad that the AI could not find similarity of the word "starboy"
 ## Links to work:
 [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/bf55b72c9c85170b2f14980bc574d8b7dcd79929)
