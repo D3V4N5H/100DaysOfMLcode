@@ -76,3 +76,14 @@ Very successful, many interesting discoveries
 Yet I'm still surprised and sad that the AI could not find similarity of the word "starboy"
 ## Links to work:
 [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/bf55b72c9c85170b2f14980bc574d8b7dcd79929)
+
+# Day 6: September 24, 2018
+[**Full Report on Medium Article**](http://sync.dvnsh.com/mlday6)
+## Today's Progress:
+✅ Graph based Summarization and Keyword Extraction
+## Thoughts:
+I'm grateful for, yet disappointed by TextRank  
+I will now work on comparing my results with the environment
+## Links to work:
+[Commit: Queries in starboyGraphQueries.cql](https://github.com/D3V4N5H/StarBoy/commit/97fc56baf9c71e07e20a2175a10f770b617efe9a)
+[TextRank Python code](https://github.com/D3V4N5H/StarBoy/blob/master/TextRank.py)
