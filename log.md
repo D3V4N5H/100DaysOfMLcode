@@ -87,3 +87,15 @@ I will now work on comparing my results with the environment
 ## Links to work:
 [Commit: Queries in starboyGraphQueries.cql](https://github.com/D3V4N5H/StarBoy/commit/97fc56baf9c71e07e20a2175a10f770b617efe9a)  
 [TextRank Python code](https://github.com/D3V4N5H/StarBoy/blob/master/TextRank.py)
+
+# Day 7: September 25, 2018
+[**Full Report on Medium Article**](http://sync.dvnsh.com/mlday6)
+## Today's Progress:
+✅ Working on a Jupyter notebook on Content Recommendation
+## Thoughts:
+I now need datasets more than ever.  
+MusixMatch has  
+43 million tracks  
+14 million lyrics  
+## Link:
+[Jupyter Notebook](https://github.com/johnymontana/nlp-graph-notebooks/blob/master/Content%20Recommendation.ipynb)
