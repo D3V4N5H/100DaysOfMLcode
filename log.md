@@ -89,7 +89,6 @@ I will now work on comparing my results with the environment
 [TextRank Python code](https://github.com/D3V4N5H/StarBoy/blob/master/TextRank.py)
 
 # Day 7: September 25, 2018
-[**Full Report on Medium Article**](http://sync.dvnsh.com/mlday6)
 ## Today's Progress:
 ✅ Working on a Jupyter notebook on Content Recommendation
 ## Thoughts:
