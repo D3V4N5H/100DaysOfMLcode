@@ -98,3 +98,13 @@ MusixMatch has
 14 million lyrics  
 ## Link:
 [Jupyter Notebook](https://github.com/johnymontana/nlp-graph-notebooks/blob/master/Content%20Recommendation.ipynb)
+
+# Day 8: September 26, 2018
+## Today's Progress:
+✅ Designing 'The Song Attribute Graph' data model and schema for Content Based filtering and Recommendation
+## Thoughts:
+I'm advocating content based recommmendations at this stage of the project  
+Today I had to guess what parameters can be taken into account to find patterns that match the environment  
+To keep my project simple, I have chosen Release Date, Featuring Actor, Genre AND Keywords
+## Link:
+[Commit with Queries](https://github.com/D3V4N5H/StarBoy/commit/b48685dfa9f8a13574be17c33f666fc340185d8a)
