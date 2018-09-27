@@ -112,7 +112,7 @@ To keep my project simple, I have chosen Release Date, Featuring Actor, Genre AN
 # Day 9: September 27, 2018
 ## Today's Progress:
 ✅ Created python script to generate User Preference and Song Attributes Graph for Content-based Recommendations  
-✅ Signed up for and MusixMatch API, got API key and Studied its documentation
+✅ Signed up for MusixMatch API, got API key and Studied its documentation
 ## Thoughts:
 I wanted to create separate functions for queries to add user, add song, add metadata and link. But because of the limitation of query variables, their scope only exists with the query. So I had to create a common function. If I still wanted to create separate ones, I'd need to MATCH them before making associations to a new variable, which would further complicate the code. I will have a workaround in Python to remedy this by creating query templates and loops.
 ## Link to work:
