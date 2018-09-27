@@ -108,3 +108,12 @@ Today I had to guess what parameters can be taken into account to find patterns 
 To keep my project simple, I have chosen Release Date, Featuring Actor, Genre AND Keywords
 ## Link:
 [Commit with Queries](https://github.com/D3V4N5H/StarBoy/commit/b48685dfa9f8a13574be17c33f666fc340185d8a)
+
+# Day 9: September 27, 2018
+## Today's Progress:
+✅ Created python script to generate User Preference and Song Attributes Graph for Content-based Recommendations  
+✅ Signed up for and MusixMatch API, got API key and Studied its documentation
+## Thoughts:
+I wanted to create separate functions for queries to add user, add song, add metadata and link. But because of the limitation of query variables, their scope only exists with the query. So I had to create a common function. If I still wanted to create separate ones, I'd need to MATCH them before making associations to a new variable, which would further complicate the code. I will have a workaround in Python to remedy this by creating query templates and loops.
+## Link to work:
+[New python script to generate User Preference and Song Attributes Graph](https://github.com/D3V4N5H/StarBoy/commit/2dd791e57beaf098c6879e8c50f3b6e831b53c70)
