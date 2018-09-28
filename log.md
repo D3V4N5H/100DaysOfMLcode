@@ -117,3 +117,14 @@ To keep my project simple, I have chosen Release Date, Featuring Actor, Genre AN
 I wanted to create separate functions for queries to add user, add song, add metadata and link. But because of the limitation of query variables, their scope only exists with the query. So I had to create a common function. If I still wanted to create separate ones, I'd need to MATCH them before making associations to a new variable, which would further complicate the code. I will have a workaround in Python to remedy this by creating query templates and loops.
 ## Link to work:
 [New python script to generate User Preference and Song Attributes Graph](https://github.com/D3V4N5H/StarBoy/commit/2dd791e57beaf098c6879e8c50f3b6e831b53c70)
+
+# Day 10: September 28, 2018
+## Today's Progress:
+✅ Fetched Top Artists using chart.artists.get
+## Thoughts:
+Following APIs are paid:
+track.search
+track.subtitle.get
+matcher.subtitle.get
+## Link to work:
+[Script to fetch popular artists in India (use your own api key please)](https://github.com/D3V4N5H/StarBoy/blob/master/mxm%20chart.artists.get.py)
