@@ -128,3 +128,11 @@ track.subtitle.get
 matcher.subtitle.get
 ## Link to work:
 [Script to fetch popular artists in India (use your own api key please)](https://github.com/D3V4N5H/StarBoy/blob/master/mxm%20chart.artists.get.py)
+
+# Day 11: September 29, 2018
+## Today's Progress:
+✅ Updated Python script to Iterated over names of Top Artists in #India from JSON response
+## Thoughts:
+Now I will combine both python files : The one that fetches data and the one that fires queries to generate nodes in the graph database to associate data.
+## Link to work:
+[Commit to python code](https://github.com/D3V4N5H/StarBoy/commit/61e9663bd47823fd453d3970cf08a3664f256065)
