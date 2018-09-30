@@ -136,3 +136,12 @@ matcher.subtitle.get
 Now I will combine both python files : The one that fetches data and the one that fires queries to generate nodes in the graph database to associate data.
 ## Link to work:
 [Commit to python code](https://github.com/D3V4N5H/StarBoy/commit/61e9663bd47823fd453d3970cf08a3664f256065)
+
+# Day 12: September 30, 2018
+## Today's Progress:
+✅ Another API call to get songs of Top Artists in #India  
+✅ Show these associations in the neo4j Graph Database
+## Thoughts:
+I need more metadata, as I couldn't get some info about tracks from MusixMatch API
+## Link to work:
+[That new python file I thought about making yesterday](https://github.com/D3V4N5H/StarBoy/blob/master/userArtistSongMap.py)
