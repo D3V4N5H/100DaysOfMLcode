@@ -153,7 +153,7 @@ I need more metadata, as I couldn't get some info about tracks from MusixMatch A
 ## Thoughts:
 track.snippet.get didn't work for starboy track_id 144134659, not even in the playground
 
-I'm planning to use the following to computer relevance:  
+I'm planning to use the following to compute relevance:  
 chart.tracks.get  
 chart.artists.get  
 matcher.track.get  
