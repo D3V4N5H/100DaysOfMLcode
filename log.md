@@ -139,9 +139,27 @@ Now I will combine both python files : The one that fetches data and the one tha
 
 # Day 12: September 30, 2018
 ## Today's Progress:
-✅ Another API call to get songs of Top Artists in #India  
+✅ Another API call to get songs of Top Artists in India  
 ✅ Show these associations in the neo4j Graph Database
 ## Thoughts:
 I need more metadata, as I couldn't get some info about tracks from MusixMatch API
 ## Link to work:
 [That new python file I thought about making yesterday](https://github.com/D3V4N5H/StarBoy/blob/master/userArtistSongMap.py)
+
+# Day 13: October 1, 2018
+## Today's Progress:
+✅ Fixed Top Artists for India (country parameter was for US) API call  
+✅ Added Top Tracks in India list
+## Thoughts:
+track.snippet.get didn't work for starboy track_id 144134659, not even in the playground
+
+I'm planning to use the following to computer relevance:  
+chart.tracks.get  
+chart.artists.get  
+matcher.track.get  
+track.get  
+artist.albums.get  
+matcher.lyrics.get  
+track.lyrics.get
+## Link to work:
+[Commit to the Fix](https://github.com/D3V4N5H/StarBoy/commit/2bbfafbfbf6a8d2d75d7d5c859c4ba35b9e0b9e8)
