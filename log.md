@@ -103,7 +103,7 @@ MusixMatch has
 ## Today's Progress:
 ✅ Designing 'The Song Attribute Graph' data model and schema for Content Based filtering and Recommendation
 ## Thoughts:
-I'm advocating content based recommmendations at this stage of the project  
+I'm advocating content based recommendations at this stage of the project  
 Today I had to guess what parameters can be taken into account to find patterns that match the environment  
 To keep my project simple, I have chosen Release Date, Featuring Actor, Genre AND Keywords
 ## Link:
