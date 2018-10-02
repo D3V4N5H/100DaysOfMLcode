@@ -74,8 +74,7 @@ I'm not sure how implementing Left2 and Right2 will help me, and how to implemen
 ## Thoughts:
 Very successful, many interesting discoveries  
 Yet I'm still surprised and sad that the AI could not find similarity of the word "starboy"
-## Links to work:
-[Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/bf55b72c9c85170b2f14980bc574d8b7dcd79929)
+## Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/bf55b72c9c85170b2f14980bc574d8b7dcd79929)
 
 # Day 6: September 24, 2018
 [**Full Report on Medium Article**](http://sync.dvnsh.com/mlday6)
@@ -96,8 +95,7 @@ I now need datasets more than ever.
 MusixMatch has  
 43 million tracks  
 14 million lyrics  
-## Link:
-[Jupyter Notebook](https://github.com/johnymontana/nlp-graph-notebooks/blob/master/Content%20Recommendation.ipynb)
+## Link: [Jupyter Notebook](https://github.com/johnymontana/nlp-graph-notebooks/blob/master/Content%20Recommendation.ipynb)
 
 # Day 8: September 26, 2018
 ## Today's Progress:
@@ -106,8 +104,7 @@ MusixMatch has
 I'm advocating content based recommendations at this stage of the project  
 Today I had to guess what parameters can be taken into account to find patterns that match the environment  
 To keep my project simple, I have chosen Release Date, Featuring Actor, Genre AND Keywords
-## Link:
-[Commit with Queries](https://github.com/D3V4N5H/StarBoy/commit/b48685dfa9f8a13574be17c33f666fc340185d8a)
+## Link to work: [Commit with Queries](https://github.com/D3V4N5H/StarBoy/commit/b48685dfa9f8a13574be17c33f666fc340185d8a)
 
 # Day 9: September 27, 2018
 ## Today's Progress:
@@ -115,8 +112,7 @@ To keep my project simple, I have chosen Release Date, Featuring Actor, Genre AN
 ✅ Signed up for MusixMatch API, got API key and Studied its documentation
 ## Thoughts:
 I wanted to create separate functions for queries to add user, add song, add metadata and link. But because of the limitation of query variables, their scope only exists with the query. So I had to create a common function. If I still wanted to create separate ones, I'd need to MATCH them before making associations to a new variable, which would further complicate the code. I will have a workaround in Python to remedy this by creating query templates and loops.
-## Link to work:
-[New python script to generate User Preference and Song Attributes Graph](https://github.com/D3V4N5H/StarBoy/commit/2dd791e57beaf098c6879e8c50f3b6e831b53c70)
+## Link to work: [New python script to generate User Preference and Song Attributes Graph](https://github.com/D3V4N5H/StarBoy/commit/2dd791e57beaf098c6879e8c50f3b6e831b53c70)
 
 # Day 10: September 28, 2018
 ## Today's Progress:
@@ -126,16 +122,14 @@ Following APIs are paid:
 track.search
 track.subtitle.get
 matcher.subtitle.get
-## Link to work:
-[Script to fetch popular artists in India (use your own api key please)](https://github.com/D3V4N5H/StarBoy/blob/master/mxm%20chart.artists.get.py)
+## Link to work: [Script to fetch popular artists in India (use your own api key please)](https://github.com/D3V4N5H/StarBoy/blob/master/mxm%20chart.artists.get.py)
 
 # Day 11: September 29, 2018
 ## Today's Progress:
 ✅ Updated Python script to Iterated over names of Top Artists in #India from JSON response
 ## Thoughts:
 Now I will combine both python files : The one that fetches data and the one that fires queries to generate nodes in the graph database to associate data.
-## Link to work:
-[Commit to python code](https://github.com/D3V4N5H/StarBoy/commit/61e9663bd47823fd453d3970cf08a3664f256065)
+## Link to work: [Commit to python code](https://github.com/D3V4N5H/StarBoy/commit/61e9663bd47823fd453d3970cf08a3664f256065)
 
 # Day 12: September 30, 2018
 ## Today's Progress:
@@ -143,8 +137,7 @@ Now I will combine both python files : The one that fetches data and the one tha
 ✅ Show these associations in the neo4j Graph Database
 ## Thoughts:
 I need more metadata, as I couldn't get some info about tracks from MusixMatch API
-## Link to work:
-[That new python file I thought about making yesterday](https://github.com/D3V4N5H/StarBoy/blob/master/userArtistSongMap.py)
+## Link to work: [That new python file I thought about making yesterday](https://github.com/D3V4N5H/StarBoy/blob/master/userArtistSongMap.py)
 
 # Day 13: October 1, 2018
 ## Today's Progress:
@@ -161,5 +154,15 @@ track.get
 artist.albums.get  
 matcher.lyrics.get  
 track.lyrics.get
-## Link to work:
-[Commit to the Fix](https://github.com/D3V4N5H/StarBoy/commit/2bbfafbfbf6a8d2d75d7d5c859c4ba35b9e0b9e8)
+## Link to work: [Commit to the Fix](https://github.com/D3V4N5H/StarBoy/commit/2bbfafbfbf6a8d2d75d7d5c859c4ba35b9e0b9e8)
+
+# Day 14: October 2, 2018
+## Today's Progress:
+✅ Made a function to handle APIs better  
+✅ Combined approach: Finding Best songs OF Best artists
+## Thoughts:
+I tested lyrics by watching the Starboy video on Youtube with MusixMatch Chrome Extension and it worked fine.  
+This proves that they DO have the lyrics with them.  
+But I'm not able to find the lyrics programmatically.  
+Now I will try to get metadata, eventually reflecting those in the Graph.
+## Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/425803542ad62e053110398b8d9fd56baa5f9326)
