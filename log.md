@@ -166,3 +166,11 @@ This proves that they DO have the lyrics with them.
 But I'm not able to find the lyrics programmatically.  
 Now I will try to get metadata, eventually reflecting those in the Graph.
 ## Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/425803542ad62e053110398b8d9fd56baa5f9326)
+
+# Day 15: October 3, 2018
+## Today's Progress:
+✅ Convert listOfTracks to a dictionary with track_name, track_id as values  
+✅ Fetch and Parse the Release Date
+## Thoughts:
+Now I have the Release Date Metadata, but that's not it. A Date Object is convenient in Python. I'm not sure it's a good move to store that information as Node in Graph. I might have to come up with a Hybrid approach if I can't sort it out tomorrow.
+## Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/ae74585ad3f3b1fb100d357af3923cfe42b62d5b)
