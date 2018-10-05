@@ -182,3 +182,10 @@ Now I have the Release Date Metadata, but that's not it. A Date Object is conven
 The function I defined was taking too long to execute, as it was fetching track details for every top artist's every single top track. That's too many API calls (about 100, depending on number of items).  
 After inspecting data from previous API calls, I noticed that if I could iterate into the nested dictionary inside tuple inside list inside the callback (phew)!
 ## Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/71ac6ad7a1ca1f3e931c9676031b9b0f20a31443)
+
+# Day 17: October 5, 2018
+## Today's Progress:
+✅ Take Top Tracks in the geographical place as Training Data for AI
+## Thoughts:
+At this point my project seems to be leaning towards Collaborative filtering based on other users' activity
+## Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/b4d7072baf1a33bc71a3befdc23b9df0b0196957)
