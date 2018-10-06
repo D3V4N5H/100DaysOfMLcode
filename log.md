@@ -189,3 +189,12 @@ After inspecting data from previous API calls, I noticed that if I could iterate
 ## Thoughts:
 At this point my project seems to be leaning towards Collaborative filtering based on other users' activity
 ## Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/b4d7072baf1a33bc71a3befdc23b9df0b0196957)
+
+# Day 18: October 6, 2018
+## Today's Progress:
+✅ Finally managed to fetch lyrics of Top Songs in #India songs to train the AI  
+✅ Made API method much better
+## Thoughts:
+I'm not able to fetch the whole lyrics. I'll work with what I have now.  
+I'm planning to take Top Tracks of India as Training Data and use Top Artists' Songs to find recommendations.
+## Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/4ef724a446cf1e2bd85d277156942b2b29603f35)
