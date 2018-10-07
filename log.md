@@ -198,3 +198,11 @@ At this point my project seems to be leaning towards Collaborative filtering bas
 I'm not able to fetch the whole lyrics. I'll work with what I have now.  
 I'm planning to take Top Tracks of India as Training Data and use Top Artists' Songs to find recommendations.
 ## Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/4ef724a446cf1e2bd85d277156942b2b29603f35)
+
+# Day 19: October 7, 2018
+## Today's Progress:
+✅ Cleared other parts in the lyrics, so it's much more readable now (Compared to yesterday)  
+✅ Refactored the code
+## Thoughts:
+This is where my previous work about generating weighted keywords can pitch in to UNDERSTAND the lyrics.
+## Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/08cbeb7d3c51b4fcb50dd5675bd20917c04a4e86)
