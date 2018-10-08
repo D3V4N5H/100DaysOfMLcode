@@ -206,3 +206,13 @@ I'm planning to take Top Tracks of India as Training Data and use Top Artists' S
 ## Thoughts:
 This is where my previous work about generating weighted keywords can pitch in to UNDERSTAND the lyrics.
 ## Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/08cbeb7d3c51b4fcb50dd5675bd20917c04a4e86)
+
+# Day 20: October 8, 2018
+## Today's Progress:
+✅ New Python file to parse the #StarBoy lyrics  
+✅ Removed background vocals in brackets
+## Thoughts:
+Genius.com [resources](https://genius.com/3317959) helped understand parts of the lyrics  
+The data in my file is analogous to the csv file that I manually generated at the beginning of the project. Getting lyrics is now officially automated !!
+## Link to work: [Commit to New File](https://github.com/D3V4N5H/StarBoy/commit/5b38af182c69b2dff9036bcb3ed21881456430f9)
+
