@@ -216,3 +216,9 @@ Genius.com [resources](https://genius.com/3317959) helped understand parts of th
 The data in my file is analogous to the csv file that I manually generated at the beginning of the project. Getting lyrics is now officially automated !!
 ## Link to work: [Commit to New File](https://github.com/D3V4N5H/StarBoy/commit/5b38af182c69b2dff9036bcb3ed21881456430f9)
 
+# Day 21: October 9, 2018
+## Today's Progress:
+😭 Failed to import line by line lyrics into @neo4j (without using CSV)
+## Thoughts:
+Tried doing this for 4 Hours. It's too complicated.
+
