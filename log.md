@@ -222,3 +222,14 @@ The data in my file is analogous to the csv file that I manually generated at th
 ## Thoughts:
 Tried doing this for 4 Hours. It's too complicated.
 
+# Day 22: October 10, 2018
+## Today's Progress:
+✅ [Michael Hunger](https://twitter.com/@mesirii) helps me import the data to the graph  
+✅ Mining Paradigmatic Word Associations in lyrics from API calls
+## Thoughts:
+Today's date is 10 on 10 (10/10), and so was my progress.  
+As I was wondering why the word frequency from the API fetched lyrics didn't match that of the CSV lyrics, it was comforting to recollect that I don't get FULL lyrics from the free account. Hence the difference.  
+Despite that, my mining was very accurate.
+
+I was tempted to use an iterator for the word-by-word query but when it didn't work, so I sticked with coding that part from the scratch.
+## Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/4695d4e1dd30ea86528356ef4bdaa57a0d3a7cbd)
