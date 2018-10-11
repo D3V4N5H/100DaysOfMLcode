@@ -233,3 +233,10 @@ Despite that, my mining was very accurate.
 
 I was tempted to use an iterator for the word-by-word query but when it didn't work, so I sticked with coding that part from the scratch.
 ## Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/4695d4e1dd30ea86528356ef4bdaa57a0d3a7cbd)
+
+# Day 23: October 11, 2018
+## Today's Progress:
+✅ Create nodes from words of ALL top tracks in india
+## Thoughts:
+I tried to create nodes with separate labels for each song, but it seems that's not possible. So now I will have to mine each of the tracks one-by-one inside the same loop instead of batch mining !
+## Link to work: [Commit Creating 'Mining Top Tracks in india.py](https://github.com/D3V4N5H/StarBoy/commit/00d2ea4feb035da7aaa1321d38fdf6ecab2a7dec)
