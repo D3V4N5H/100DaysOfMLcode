@@ -240,3 +240,10 @@ I was tempted to use an iterator for the word-by-word query but when it didn't w
 ## Thoughts:
 I tried to create nodes with separate labels for each song, but it seems that's not possible. So now I will have to mine each of the tracks one-by-one inside the same loop instead of batch mining !
 ## Link to work: [Commit Creating 'Mining Top Tracks in india.py](https://github.com/D3V4N5H/StarBoy/commit/00d2ea4feb035da7aaa1321d38fdf6ecab2a7dec)
+
+# Day 24: October 12, 2018
+## Today's Progress:
+✅ Adding names of songs as Labels using APOC
+## Thoughts:
+Now I can batch-mine all songs in the graph, and know which song a particular cluster of nodes belongs to :D  
+## Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/7217f4048ee686811c6213cb4d08d780940353bb)
