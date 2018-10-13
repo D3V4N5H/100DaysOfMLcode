@@ -247,3 +247,10 @@ I tried to create nodes with separate labels for each song, but it seems that's 
 ## Thoughts:
 Now I can batch-mine all songs in the graph, and know which song a particular cluster of nodes belongs to :D  
 ## Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/7217f4048ee686811c6213cb4d08d780940353bb)
+
+# Day 25: October 13, 2018
+## Today's Progress:
+✅ Mining from Lyrics of Songs
+## Thoughts:
+Some words are repeated as nodes. I will need to debug this, as most weighted pairs are the same words in the results
+## Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/c4667d792249211593b6eb52e816e72f125eb72a)
