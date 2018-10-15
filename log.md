@@ -254,3 +254,11 @@ Now I can batch-mine all songs in the graph, and know which song a particular cl
 ## Thoughts:
 Some words are repeated as nodes. I will need to debug this, as most weighted pairs are the same words in the results
 ## Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/c4667d792249211593b6eb52e816e72f125eb72a)
+
+# Day 26: October 14, 2018
+## Today's Progress:
+👀 Deep inspection of the mined data
+## Thoughts:
+I found multiple nodes(at least two) with same words  
+Something is wrong. I'm expecting unique nodes.
+## Link to image: [pic on Twitter](https://pbs.twimg.com/media/DpkJRxoW0AMHxT0.jpg:large)
