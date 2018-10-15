@@ -262,3 +262,11 @@ Some words are repeated as nodes. I will need to debug this, as most weighted pa
 I found multiple nodes(at least two) with same words  
 Something is wrong. I'm expecting unique nodes.
 ## Link to image: [pic on Twitter](https://pbs.twimg.com/media/DpkJRxoW0AMHxT0.jpg:large)
+
+# Day 27: October 15, 2018
+## Today's Progress:
+✅ Refactor the Mining process
+## Thoughts:
+After refactoring the mining process, another instance of the mined graph indicates that the issue has prevailed.
+## Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/756852ee834a0cf661b6c036ac9df221c55558e1)
+
