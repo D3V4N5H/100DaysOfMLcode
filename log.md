@@ -270,3 +270,10 @@ Something is wrong. I'm expecting unique nodes.
 After refactoring the mining process, another instance of the mined graph indicates that the issue has prevailed.
 ## Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/756852ee834a0cf661b6c036ac9df221c55558e1)
 
+# Day 28: October 16, 2018
+## Today's Progress:
+✅ Underscored Variable names for readability  
+🕵🏻‍♂️Found issues in parsing of lyrics
+## Thoughts:
+I have no idea of the weird unexpected codes I'm looking at. This has never happened before.
+## Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/6634918160f8f6fe396c5aecb6c445ce0de45e30)
