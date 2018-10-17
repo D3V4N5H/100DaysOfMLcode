@@ -277,3 +277,10 @@ After refactoring the mining process, another instance of the mined graph indica
 ## Thoughts:
 I have no idea of the weird unexpected codes I'm looking at. This has never happened before.
 ## Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/6634918160f8f6fe396c5aecb6c445ce0de45e30)
+
+# Day 29: October 17, 2018
+## Today's Progress:
+✅ Implemented query and calls with a different approach to prevent duplicate nodes before Mining
+## Thoughts:
+Finally it works as intended, can't wait to fetch and display keywords mined from each song now !
+## Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/72161604f84be9c3a9c80fd0bef7fe57d27cfb13)
