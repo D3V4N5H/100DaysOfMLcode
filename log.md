@@ -284,3 +284,11 @@ I have no idea of the weird unexpected codes I'm looking at. This has never happ
 ## Thoughts:
 Finally it works as intended, can't wait to fetch and display keywords mined from each song now !
 ## Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/72161604f84be9c3a9c80fd0bef7fe57d27cfb13)
+
+# Day 30: October 18, 2018
+## Today's Progress:
+
+## Thoughts:
+
+## Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/9e1298606051cf92607e7d5ca67d6af6f5b129e4)
+
