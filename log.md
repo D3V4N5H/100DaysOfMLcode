@@ -292,3 +292,9 @@ Finally it works as intended, can't wait to fetch and display keywords mined fro
 
 ## Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/9e1298606051cf92607e7d5ca67d6af6f5b129e4)
 
+# Day 31: October 19, 2018
+## Today's Progress:
+
+## Thoughts:
+
+## Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/aed6b05e5feae8ce5078f08342286a4b4402ef24)
