@@ -287,14 +287,22 @@ Finally it works as intended, can't wait to fetch and display keywords mined fro
 
 # Day 30: October 18, 2018
 ## Today's Progress:
-
+⚙️ Importing weighted keywords from mined graph
 ## Thoughts:
-
+The script is taking significant time to execute
 ## Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/9e1298606051cf92607e7d5ca67d6af6f5b129e4)
 
 # Day 31: October 19, 2018
 ## Today's Progress:
-
+⚙️ Trying different approaches to read Response code from the BoltStatementResult object
 ## Thoughts:
 
 ## Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/aed6b05e5feae8ce5078f08342286a4b4402ef24)
+
+# Day 32: October 20, 2018
+## Today's Progress:
+✅ Learned Pypher  
+✅ Finally imported from Graph (though strangely all weights are 1.0)
+## Thoughts:
+I couldn't find how Pypher could help me access records from the graph, so I implemented the code without it
+## Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/924311c7c81b6eee7b7f11fc6c68a75b16e23d01)
