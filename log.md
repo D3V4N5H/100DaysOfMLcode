@@ -296,7 +296,7 @@ The script is taking significant time to execute
 ## Today's Progress:
 ⚙️ Trying different approaches to read Response code from the BoltStatementResult object
 ## Thoughts:
-
+I really wish I could just iterate on it!
 ## Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/aed6b05e5feae8ce5078f08342286a4b4402ef24)
 
 # Day 32: October 20, 2018
