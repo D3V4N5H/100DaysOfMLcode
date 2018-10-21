@@ -306,3 +306,10 @@ I really wish I could just iterate on it!
 ## Thoughts:
 I couldn't find how Pypher could help me access records from the graph, so I implemented the code without it
 ## Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/924311c7c81b6eee7b7f11fc6c68a75b16e23d01)
+
+# Day 33: October 21, 2018
+## Today's Progress:
+✅ Recreated the same problem with Starboy Lyrics
+## Thoughts:
+This is really interesting, and I suspect this is due to the way I'm passing words to the graph
+## Link to work: [Commit with changes]()
