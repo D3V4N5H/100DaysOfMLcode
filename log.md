@@ -312,4 +312,4 @@ I couldn't find how Pypher could help me access records from the graph, so I imp
 ✅ Recreated the same problem with Starboy Lyrics
 ## Thoughts:
 This is really interesting, and I suspect this is due to the way I'm passing words to the graph
-## Link to work: [Commit with changes]()
+## Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/ea3c9a7fd09cfbcfd12d210ae33e1b00e6238d78)
