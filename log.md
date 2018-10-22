@@ -313,3 +313,13 @@ I couldn't find how Pypher could help me access records from the graph, so I imp
 ## Thoughts:
 This is really interesting, and I suspect this is due to the way I'm passing words to the graph
 ## Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/ea3c9a7fd09cfbcfd12d210ae33e1b00e6238d78)
+
+# Day 34: October 22, 2018
+## Today's Progress:
+✅ Create CSV file to store lyrics and FIRE the original Cypher Query for proper mining to get expected weight range
+## Thoughts:
+I hope to get a Comma-Separated-LINES instead of Comma-Separated-WORDS tomorrow
+## Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/d0abf13b640083255e31df566eccc96cc1f08d03)
+
+
+Create CSV file to store lyrics and FIRE the original Cypher Query for proper mining to get expected weight range
