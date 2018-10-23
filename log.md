@@ -321,5 +321,10 @@ This is really interesting, and I suspect this is due to the way I'm passing wor
 I hope to get a Comma-Separated-LINES instead of Comma-Separated-WORDS tomorrow
 ## Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/d0abf13b640083255e31df566eccc96cc1f08d03)
 
+# Day 35: October 23, 2018
+## Today's Progress:
+✅ Exported lyrics into a CSV
+## Thoughts:
+Interestingly, some lines were blank
+## Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/2126251d2b83b0369026a43be8dc0abf5da5ad99)
 
-Create CSV file to store lyrics and FIRE the original Cypher Query for proper mining to get expected weight range
