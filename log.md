@@ -328,3 +328,10 @@ I hope to get a Comma-Separated-LINES instead of Comma-Separated-WORDS tomorrow
 Interestingly, some lines were blank
 ## Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/2126251d2b83b0369026a43be8dc0abf5da5ad99)
 
+# Day 36: October 24, 2018
+## Today's Progress:
+✅ Imporved Lyrics cleaning using loops  
+✅ CSV export is tip top, no blank lines now
+## Thoughts:
+The number of nodes surprisingly increased after removing blank lines
+## Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/9c1cd4721dbfa9fde551eef9a12ef6b39e07fef2)
