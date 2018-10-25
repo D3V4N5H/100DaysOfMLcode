@@ -335,3 +335,10 @@ Interestingly, some lines were blank
 ## Thoughts:
 The number of nodes surprisingly increased after removing blank lines
 ## Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/9c1cd4721dbfa9fde551eef9a12ef6b39e07fef2)
+
+# Day 37: October 25, 2018
+## Today's Progress:
+✅ Export Starboy lyrics csv directly to the path of graph import directory
+## Thoughts:
+I wish there was a way to FIND OUT where is the current graph located using the driver
+## Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/7ed65e5a6508918c668518ec778a6b0b25424069)
