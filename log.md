@@ -342,3 +342,12 @@ The number of nodes surprisingly increased after removing blank lines
 ## Thoughts:
 I wish there was a way to FIND OUT where is the current graph located using the driver
 ## Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/7ed65e5a6508918c668518ec778a6b0b25424069)
+
+# Day 38: October 26, 2018
+## Today's Progress:
+✅ Mine the lyrics imported from CSV  
+✅ Store the result in a Python dictionary
+## Thoughts:
+Found '0' values for words...  
+I checked the CSV file, and it didn't have any '0' in it !
+## Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/b405c9b59fada21989851d7bf2c4edb642f4d4f0)
