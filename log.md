@@ -10,7 +10,7 @@ I'm following guidelines from this Siraj video: [100 Days of ML Code Challenge](
 5. Create a Solution
 
 # Day 0: September 18, 2018
-[**Full Report on Medium Article**](http://sync.dvnsh.com/mlday0)
+# [**Full Report on Medium Article**](http://sync.dvnsh.com/mlday0)
 ## Today's Progress:
 ✅ Step 1: Picked Music Industry  
 ✅ Step 2: Found a Problem: ProActive Music Selection  
@@ -28,7 +28,7 @@ Then **Linguistic Analysis** of song lyrics will help me detect and interpret em
 ## Link to work: [StarBoy Repository](https://github.com/D3V4N5H/StarBoy)
 
 # Day 1: September 19, 2018
-[**Full Report on Medium Article**](http://sync.dvnsh.com/mlday1)
+# [**Full Report on Medium Article**](http://sync.dvnsh.com/mlday1)
 ## Today's Progress:
 ✅ Coded together a Python script with officially supported 'idiomatic' Neo4j Python driver v1 to use GraphDatabase
 ## Thoughts:
@@ -37,7 +37,7 @@ However, the ability to access it from python will open doors to many new possib
 ## Link to work: [StarBoy.py](https://github.com/D3V4N5H/StarBoy/blob/master/StarBoy.py)
 
 # Day 2: September 20, 2018
-[**Full Report on Medium Article**](http://sync.dvnsh.com/mlday2)
+# [**Full Report on Medium Article**](http://sync.dvnsh.com/mlday2)
 ## Today's Progress:
 ✅ Fetch word frequencies into a Python dictionary  
 To achieve this, I'm using Auto-commit transactions in the driver's session.
@@ -46,7 +46,7 @@ I concluded that a dictionary would be the right data structure to store the fre
 ## Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/962e549919bba2d6375cb52ae856419f19cad604)
 
 # Day 3: September 21, 2018
-[**Full Report on Medium Article**](http://sync.dvnsh.com/mlday3)
+# [**Full Report on Medium Article**](http://sync.dvnsh.com/mlday3)
 ## Today's Progress:
 ✅ Word-Pair Frequency into Python Dictionary with tuples as keys and count as values
 ## Thoughts:
@@ -55,7 +55,7 @@ Now that I have the Text Adjacency Graph, I can go ahead for the Mining Word Ass
 ## Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/05c96ab331569f1831943aa3d168921935e88888)
 
 # Day 4: September 22, 2018
-[**Full Report on Medium Article**](http://sync.dvnsh.com/mlday4)
+# [**Full Report on Medium Article**](http://sync.dvnsh.com/mlday4)
 ## Today's Progress:
 ✅ Implemented Left1, Right1, Count Left1 and Right1, Find highest Left1 and Right1  
 ✅ Uploaded starboy.csv  
@@ -68,7 +68,7 @@ I'm not sure how implementing Left2 and Right2 will help me, and how to implemen
 [Queries](https://github.com/D3V4N5H/StarBoy/blob/master/CypherQueries)
 
 # Day 5: September 23, 2018
-[**Full Report on Medium Article**](http://sync.dvnsh.com/mlday5)
+# [**Full Report on Medium Article**](http://sync.dvnsh.com/mlday5)
 ## Today's Progress:
 ✅ Mining Paradigmatic Word Associations using Jaccard Index to compute similarity
 ## Thoughts:
@@ -77,7 +77,7 @@ Yet I'm still surprised and sad that the AI could not find similarity of the wor
 ## Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/bf55b72c9c85170b2f14980bc574d8b7dcd79929)
 
 # Day 6: September 24, 2018
-[**Full Report on Medium Article**](http://sync.dvnsh.com/mlday6)
+# [**Full Report on Medium Article**](http://sync.dvnsh.com/mlday6)
 ## Today's Progress:
 ✅ Graph based Summarization and Keyword Extraction
 ## Thoughts:
@@ -87,63 +87,63 @@ I will now work on comparing my results with the environment
 [Commit: Queries in starboyGraphQueries.cql](https://github.com/D3V4N5H/StarBoy/commit/97fc56baf9c71e07e20a2175a10f770b617efe9a)  
 [TextRank Python code](https://github.com/D3V4N5H/StarBoy/blob/master/TextRank.py)
 
-# Day 7: September 25, 2018
-## Today's Progress:
+## Day 7: September 25, 2018
+### Today's Progress:
 ✅ Working on a Jupyter notebook on Content Recommendation
-## Thoughts:
+### Thoughts:
 I now need datasets more than ever.  
 MusixMatch has  
 43 million tracks  
 14 million lyrics  
-## Link: [Jupyter Notebook](https://github.com/johnymontana/nlp-graph-notebooks/blob/master/Content%20Recommendation.ipynb)
+### Link: [Jupyter Notebook](https://github.com/johnymontana/nlp-graph-notebooks/blob/master/Content%20Recommendation.ipynb)
 
-# Day 8: September 26, 2018
-## Today's Progress:
+## Day 8: September 26, 2018
+### Today's Progress:
 ✅ Designing 'The Song Attribute Graph' data model and schema for Content Based filtering and Recommendation
-## Thoughts:
+### Thoughts:
 I'm advocating content based recommendations at this stage of the project  
 Today I had to guess what parameters can be taken into account to find patterns that match the environment  
 To keep my project simple, I have chosen Release Date, Featuring Actor, Genre AND Keywords
-## Link to work: [Commit with Queries](https://github.com/D3V4N5H/StarBoy/commit/b48685dfa9f8a13574be17c33f666fc340185d8a)
+### Link to work: [Commit with Queries](https://github.com/D3V4N5H/StarBoy/commit/b48685dfa9f8a13574be17c33f666fc340185d8a)
 
-# Day 9: September 27, 2018
-## Today's Progress:
+## Day 9: September 27, 2018
+### Today's Progress:
 ✅ Created python script to generate User Preference and Song Attributes Graph for Content-based Recommendations  
 ✅ Signed up for MusixMatch API, got API key and Studied its documentation
-## Thoughts:
+### Thoughts:
 I wanted to create separate functions for queries to add user, add song, add metadata and link. But because of the limitation of query variables, their scope only exists with the query. So I had to create a common function. If I still wanted to create separate ones, I'd need to MATCH them before making associations to a new variable, which would further complicate the code. I will have a workaround in Python to remedy this by creating query templates and loops.
-## Link to work: [New python script to generate User Preference and Song Attributes Graph](https://github.com/D3V4N5H/StarBoy/commit/2dd791e57beaf098c6879e8c50f3b6e831b53c70)
+### Link to work: [New python script to generate User Preference and Song Attributes Graph](https://github.com/D3V4N5H/StarBoy/commit/2dd791e57beaf098c6879e8c50f3b6e831b53c70)
 
-# Day 10: September 28, 2018
-## Today's Progress:
+## Day 10: September 28, 2018
+### Today's Progress:
 ✅ Fetched Top Artists using chart.artists.get
-## Thoughts:
+### Thoughts:
 Following APIs are paid:
 track.search
 track.subtitle.get
 matcher.subtitle.get
-## Link to work: [Script to fetch popular artists in India (use your own api key please)](https://github.com/D3V4N5H/StarBoy/blob/master/mxm%20chart.artists.get.py)
+### Link to work: [Script to fetch popular artists in India (use your own api key please)](https://github.com/D3V4N5H/StarBoy/blob/master/mxm%20chart.artists.get.py)
 
-# Day 11: September 29, 2018
-## Today's Progress:
+## Day 11: September 29, 2018
+### Today's Progress:
 ✅ Updated Python script to Iterated over names of Top Artists in #India from JSON response
-## Thoughts:
+### Thoughts:
 Now I will combine both python files : The one that fetches data and the one that fires queries to generate nodes in the graph database to associate data.
-## Link to work: [Commit to python code](https://github.com/D3V4N5H/StarBoy/commit/61e9663bd47823fd453d3970cf08a3664f256065)
+### Link to work: [Commit to python code](https://github.com/D3V4N5H/StarBoy/commit/61e9663bd47823fd453d3970cf08a3664f256065)
 
-# Day 12: September 30, 2018
-## Today's Progress:
+## Day 12: September 30, 2018
+### Today's Progress:
 ✅ Another API call to get songs of Top Artists in India  
 ✅ Show these associations in the neo4j Graph Database
-## Thoughts:
+### Thoughts:
 I need more metadata, as I couldn't get some info about tracks from MusixMatch API
-## Link to work: [That new python file I thought about making yesterday](https://github.com/D3V4N5H/StarBoy/blob/master/userArtistSongMap.py)
+### Link to work: [That new python file I thought about making yesterday](https://github.com/D3V4N5H/StarBoy/blob/master/userArtistSongMap.py)
 
-# Day 13: October 1, 2018
-## Today's Progress:
+## Day 13: October 1, 2018
+### Today's Progress:
 ✅ Fixed Top Artists for India (country parameter was for US) API call  
 ✅ Added Top Tracks in India list
-## Thoughts:
+### Thoughts:
 track.snippet.get didn't work for starboy track_id 144134659, not even in the playground
 
 I'm planning to use the following to compute relevance:  
@@ -154,200 +154,216 @@ track.get
 artist.albums.get  
 matcher.lyrics.get  
 track.lyrics.get
-## Link to work: [Commit to the Fix](https://github.com/D3V4N5H/StarBoy/commit/2bbfafbfbf6a8d2d75d7d5c859c4ba35b9e0b9e8)
+### Link to work: [Commit to the Fix](https://github.com/D3V4N5H/StarBoy/commit/2bbfafbfbf6a8d2d75d7d5c859c4ba35b9e0b9e8)
 
-# Day 14: October 2, 2018
-## Today's Progress:
+
+# [**Week 2 Report as Explainer Article**](http://sync.dvnsh.com/mlday7)
+
+
+## Day 14: October 2, 2018
+### Today's Progress:
 ✅ Made a function to handle APIs better  
 ✅ Combined approach: Finding Best songs OF Best artists
-## Thoughts:
+### Thoughts:
 I tested lyrics by watching the Starboy video on Youtube with MusixMatch Chrome Extension and it worked fine.  
 This proves that they DO have the lyrics with them.  
 But I'm not able to find the lyrics programmatically.  
 Now I will try to get metadata, eventually reflecting those in the Graph.
-## Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/425803542ad62e053110398b8d9fd56baa5f9326)
+### Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/425803542ad62e053110398b8d9fd56baa5f9326)
 
-# Day 15: October 3, 2018
-## Today's Progress:
+## Day 15: October 3, 2018
+### Today's Progress:
 ✅ Convert listOfTracks to a dictionary with track_name, track_id as values  
 ✅ Fetch and Parse the Release Date
-## Thoughts:
+### Thoughts:
 Now I have the Release Date Metadata, but that's not it. A Date Object is convenient in Python. I'm not sure it's a good move to store that information as Node in Graph. I might have to come up with a Hybrid approach if I can't sort it out tomorrow.
-## Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/ae74585ad3f3b1fb100d357af3923cfe42b62d5b)
+### Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/ae74585ad3f3b1fb100d357af3923cfe42b62d5b)
 
-# Day 16: October 4, 2018
-## Today's Progress:
+## Day 16: October 4, 2018
+### Today's Progress:
 ✅ Dropped the getReleaseDateFromTrackId function in favour of iterating from data in Top Tracks which already had the dates
-## Thoughts:
+### Thoughts:
 The function I defined was taking too long to execute, as it was fetching track details for every top artist's every single top track. That's too many API calls (about 100, depending on number of items).  
 After inspecting data from previous API calls, I noticed that if I could iterate into the nested dictionary inside tuple inside list inside the callback (phew)!
-## Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/71ac6ad7a1ca1f3e931c9676031b9b0f20a31443)
+### Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/71ac6ad7a1ca1f3e931c9676031b9b0f20a31443)
 
-# Day 17: October 5, 2018
-## Today's Progress:
+## Day 17: October 5, 2018
+### Today's Progress:
 ✅ Take Top Tracks in the geographical place as Training Data for AI
-## Thoughts:
+### Thoughts:
 At this point my project seems to be leaning towards Collaborative filtering based on other users' activity
-## Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/b4d7072baf1a33bc71a3befdc23b9df0b0196957)
+### Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/b4d7072baf1a33bc71a3befdc23b9df0b0196957)
 
-# Day 18: October 6, 2018
-## Today's Progress:
+## Day 18: October 6, 2018
+### Today's Progress:
 ✅ Finally managed to fetch lyrics of Top Songs in #India songs to train the AI  
 ✅ Made API method much better
-## Thoughts:
+### Thoughts:
 I'm not able to fetch the whole lyrics. I'll work with what I have now.  
 I'm planning to take Top Tracks of India as Training Data and use Top Artists' Songs to find recommendations.
-## Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/4ef724a446cf1e2bd85d277156942b2b29603f35)
+### Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/4ef724a446cf1e2bd85d277156942b2b29603f35)
 
-# Day 19: October 7, 2018
-## Today's Progress:
+## Day 19: October 7, 2018
+### Today's Progress:
 ✅ Cleared other parts in the lyrics, so it's much more readable now (Compared to yesterday)  
 ✅ Refactored the code
-## Thoughts:
+### Thoughts:
 This is where my previous work about generating weighted keywords can pitch in to UNDERSTAND the lyrics.
-## Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/08cbeb7d3c51b4fcb50dd5675bd20917c04a4e86)
+### Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/08cbeb7d3c51b4fcb50dd5675bd20917c04a4e86)
 
-# Day 20: October 8, 2018
-## Today's Progress:
+## Day 20: October 8, 2018
+### Today's Progress:
 ✅ New Python file to parse the #StarBoy lyrics  
 ✅ Removed background vocals in brackets
-## Thoughts:
+### Thoughts:
 Genius.com [resources](https://genius.com/3317959) helped understand parts of the lyrics  
 The data in my file is analogous to the csv file that I manually generated at the beginning of the project. Getting lyrics is now officially automated !!
-## Link to work: [Commit to New File](https://github.com/D3V4N5H/StarBoy/commit/5b38af182c69b2dff9036bcb3ed21881456430f9)
+### Link to work: [Commit to New File](https://github.com/D3V4N5H/StarBoy/commit/5b38af182c69b2dff9036bcb3ed21881456430f9)
 
-# Day 21: October 9, 2018
-## Today's Progress:
+
+# [**Week 3 Report as Explainer Article**](http://sync.dvnsh.com/mlday14)
+
+
+## Day 21: October 9, 2018
+### Today's Progress:
 😭 Failed to import line by line lyrics into @neo4j (without using CSV)
-## Thoughts:
+### Thoughts:
 Tried doing this for 4 Hours. It's too complicated.
 
-# Day 22: October 10, 2018
-## Today's Progress:
+## Day 22: October 10, 2018
+### Today's Progress:
 ✅ [Michael Hunger](https://twitter.com/@mesirii) helps me import the data to the graph  
 ✅ Mining Paradigmatic Word Associations in lyrics from API calls
-## Thoughts:
+### Thoughts:
 Today's date is 10 on 10 (10/10), and so was my progress.  
 As I was wondering why the word frequency from the API fetched lyrics didn't match that of the CSV lyrics, it was comforting to recollect that I don't get FULL lyrics from the free account. Hence the difference.  
 Despite that, my mining was very accurate.
 
 I was tempted to use an iterator for the word-by-word query but when it didn't work, so I sticked with coding that part from the scratch.
-## Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/4695d4e1dd30ea86528356ef4bdaa57a0d3a7cbd)
+### Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/4695d4e1dd30ea86528356ef4bdaa57a0d3a7cbd)
 
-# Day 23: October 11, 2018
-## Today's Progress:
+## Day 23: October 11, 2018
+### Today's Progress:
 ✅ Create nodes from words of ALL top tracks in india
-## Thoughts:
+### Thoughts:
 I tried to create nodes with separate labels for each song, but it seems that's not possible. So now I will have to mine each of the tracks one-by-one inside the same loop instead of batch mining !
-## Link to work: [Commit Creating 'Mining Top Tracks in india.py](https://github.com/D3V4N5H/StarBoy/commit/00d2ea4feb035da7aaa1321d38fdf6ecab2a7dec)
+### Link to work: [Commit Creating 'Mining Top Tracks in india.py](https://github.com/D3V4N5H/StarBoy/commit/00d2ea4feb035da7aaa1321d38fdf6ecab2a7dec)
 
-# Day 24: October 12, 2018
-## Today's Progress:
+## Day 24: October 12, 2018
+### Today's Progress:
 ✅ Adding names of songs as Labels using APOC
-## Thoughts:
+### Thoughts:
 Now I can batch-mine all songs in the graph, and know which song a particular cluster of nodes belongs to :D  
-## Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/7217f4048ee686811c6213cb4d08d780940353bb)
+### Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/7217f4048ee686811c6213cb4d08d780940353bb)
 
-# Day 25: October 13, 2018
-## Today's Progress:
+## Day 25: October 13, 2018
+### Today's Progress:
 ✅ Mining from Lyrics of Songs
-## Thoughts:
+### Thoughts:
 Some words are repeated as nodes. I will need to debug this, as most weighted pairs are the same words in the results
-## Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/c4667d792249211593b6eb52e816e72f125eb72a)
+### Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/c4667d792249211593b6eb52e816e72f125eb72a)
 
-# Day 26: October 14, 2018
-## Today's Progress:
+## Day 26: October 14, 2018
+### Today's Progress:
 👀 Deep inspection of the mined data
-## Thoughts:
+### Thoughts:
 I found multiple nodes(at least two) with same words  
 Something is wrong. I'm expecting unique nodes.
-## Link to image: [pic on Twitter](https://pbs.twimg.com/media/DpkJRxoW0AMHxT0.jpg:large)
+### Link to image: [pic on Twitter](https://pbs.twimg.com/media/DpkJRxoW0AMHxT0.jpg:large)
 
-# Day 27: October 15, 2018
-## Today's Progress:
+## Day 27: October 15, 2018
+### Today's Progress:
 ✅ Refactor the Mining process
-## Thoughts:
+### Thoughts:
 After refactoring the mining process, another instance of the mined graph indicates that the issue has prevailed.
-## Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/756852ee834a0cf661b6c036ac9df221c55558e1)
+### Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/756852ee834a0cf661b6c036ac9df221c55558e1)
 
-# Day 28: October 16, 2018
-## Today's Progress:
+
+# [**Week 4 Report as Explainer Article**](http://sync.dvnsh.com/mlday21)
+
+
+## Day 28: October 16, 2018
+### Today's Progress:
 ✅ Underscored Variable names for readability  
 🕵🏻‍♂️Found issues in parsing of lyrics
-## Thoughts:
+### Thoughts:
 I have no idea of the weird unexpected codes I'm looking at. This has never happened before.
-## Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/6634918160f8f6fe396c5aecb6c445ce0de45e30)
+### Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/6634918160f8f6fe396c5aecb6c445ce0de45e30)
 
-# Day 29: October 17, 2018
-## Today's Progress:
+## Day 29: October 17, 2018
+### Today's Progress:
 ✅ Implemented query and calls with a different approach to prevent duplicate nodes before Mining
-## Thoughts:
+### Thoughts:
 Finally it works as intended, can't wait to fetch and display keywords mined from each song now !
-## Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/72161604f84be9c3a9c80fd0bef7fe57d27cfb13)
+### Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/72161604f84be9c3a9c80fd0bef7fe57d27cfb13)
 
-# Day 30: October 18, 2018
-## Today's Progress:
+## Day 30: October 18, 2018
+### Today's Progress:
 ⚙️ Importing weighted keywords from mined graph
-## Thoughts:
+### Thoughts:
 The script is taking significant time to execute
-## Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/9e1298606051cf92607e7d5ca67d6af6f5b129e4)
+### Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/9e1298606051cf92607e7d5ca67d6af6f5b129e4)
 
-# Day 31: October 19, 2018
-## Today's Progress:
+## Day 31: October 19, 2018
+### Today's Progress:
 ⚙️ Trying different approaches to read Response code from the BoltStatementResult object
-## Thoughts:
+### Thoughts:
 I really wish I could just iterate on it!
-## Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/aed6b05e5feae8ce5078f08342286a4b4402ef24)
+### Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/aed6b05e5feae8ce5078f08342286a4b4402ef24)
 
-# Day 32: October 20, 2018
-## Today's Progress:
+## Day 32: October 20, 2018
+### Today's Progress:
 ✅ Learned Pypher  
 ✅ Finally imported from Graph (though strangely all weights are 1.0)
-## Thoughts:
+### Thoughts:
 I couldn't find how Pypher could help me access records from the graph, so I implemented the code without it
-## Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/924311c7c81b6eee7b7f11fc6c68a75b16e23d01)
+### Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/924311c7c81b6eee7b7f11fc6c68a75b16e23d01)
 
-# Day 33: October 21, 2018
-## Today's Progress:
+## Day 33: October 21, 2018
+### Today's Progress:
 ✅ Recreated the same problem with Starboy Lyrics
-## Thoughts:
+### Thoughts:
 This is really interesting, and I suspect this is due to the way I'm passing words to the graph
-## Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/ea3c9a7fd09cfbcfd12d210ae33e1b00e6238d78)
+### Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/ea3c9a7fd09cfbcfd12d210ae33e1b00e6238d78)
 
-# Day 34: October 22, 2018
-## Today's Progress:
+## Day 34: October 22, 2018
+### Today's Progress:
 ✅ Create CSV file to store lyrics and FIRE the original Cypher Query for proper mining to get expected weight range
-## Thoughts:
+### Thoughts:
 I hope to get a Comma-Separated-LINES instead of Comma-Separated-WORDS tomorrow
-## Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/d0abf13b640083255e31df566eccc96cc1f08d03)
+### Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/d0abf13b640083255e31df566eccc96cc1f08d03)
 
-# Day 35: October 23, 2018
-## Today's Progress:
+
+# [**Week 5 Report as Explainer Article**](http://sync.dvnsh.com/mlday28)
+
+
+## Day 35: October 23, 2018
+### Today's Progress:
 ✅ Exported lyrics into a CSV
-## Thoughts:
+### Thoughts:
 Interestingly, some lines were blank
-## Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/2126251d2b83b0369026a43be8dc0abf5da5ad99)
+### Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/2126251d2b83b0369026a43be8dc0abf5da5ad99)
 
-# Day 36: October 24, 2018
-## Today's Progress:
+## Day 36: October 24, 2018
+### Today's Progress:
 ✅ Imporved Lyrics cleaning using loops  
 ✅ CSV export is tip top, no blank lines now
-## Thoughts:
+### Thoughts:
 The number of nodes surprisingly increased after removing blank lines
-## Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/9c1cd4721dbfa9fde551eef9a12ef6b39e07fef2)
+### Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/9c1cd4721dbfa9fde551eef9a12ef6b39e07fef2)
 
-# Day 37: October 25, 2018
-## Today's Progress:
+## Day 37: October 25, 2018
+### Today's Progress:
 ✅ Export Starboy lyrics csv directly to the path of graph import directory
-## Thoughts:
+### Thoughts:
 I wish there was a way to FIND OUT where is the current graph located using the driver
-## Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/7ed65e5a6508918c668518ec778a6b0b25424069)
+### Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/7ed65e5a6508918c668518ec778a6b0b25424069)
 
-# Day 38: October 26, 2018
-## Today's Progress:
+## Day 38: October 26, 2018
+### Today's Progress:
 ✅ Mine the lyrics imported from CSV  
 ✅ Store the result in a Python dictionary
-## Thoughts:
+### Thoughts:
 Found '0' values for words...  
 I checked the CSV file, and it didn't have any '0' in it !
-## Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/b405c9b59fada21989851d7bf2c4edb642f4d4f0)
+### Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/b405c9b59fada21989851d7bf2c4edb642f4d4f0)
