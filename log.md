@@ -367,3 +367,10 @@ I wish there was a way to FIND OUT where is the current graph located using the 
 Found '0' values for words...  
 I checked the CSV file, and it didn't have any '0' in it !
 ### Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/b405c9b59fada21989851d7bf2c4edb642f4d4f0)
+
+## Day 39: October 27, 2018
+### Today's Progress:
+✅ Replicate the successful mining in Starboy in the loop of 'Mining Top Tracks in india' script
+### Thoughts:
+My code is right, but the Database throws Illegal Character error for songs that have SPACE in their name
+### Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/d5547344d5f22137ff7f802126e06aa430de2abf)
