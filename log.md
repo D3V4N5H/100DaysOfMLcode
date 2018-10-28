@@ -374,3 +374,10 @@ I checked the CSV file, and it didn't have any '0' in it !
 ### Thoughts:
 My code is right, but the Database throws Illegal Character error for songs that have SPACE in their name
 ### Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/d5547344d5f22137ff7f802126e06aa430de2abf)
+
+## Day 40: October 28, 2018
+### Today's Progress:
+😿 Encoding the File Name didn't help
+### Thoughts:
+Feels like I'm hitting a wall here
+### Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/c8593c416e7a1d2f522527841d216a78a5c91ccb)
