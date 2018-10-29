@@ -387,5 +387,6 @@ Feels like I'm hitting a wall here
 ✅ Fix file encoding issue
 ### Thoughts:
 "Cannot merge node using null property value for word"  
-I checked the CSV both manually and with Python, it doesn't have a null. starboy lyrics had null and still worked fine.
+I removed the last empty line in the CSV manually and checked for other NULL values with Python.  
+Starboy lyrics had null and still worked fine.
 ### Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/46c5b75186998288d4a5317d14e3bf41ea8d263d)
