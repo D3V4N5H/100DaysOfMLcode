@@ -390,3 +390,10 @@ Feels like I'm hitting a wall here
 I removed the last empty line in the CSV manually and checked for other NULL values with Python.  
 Starboy lyrics had null and still worked fine.
 ### Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/46c5b75186998288d4a5317d14e3bf41ea8d263d)
+
+## Day 42: October 30, 2018
+### Today's Progress:
+✅ Sentiment Analysis using TextBlob
+### Thoughts:
+Graph based Mining was fancy, but on hiatus for now, until I figure out how to import from CSV without that NULL error
+### Link to work: [Commit with changes]()
