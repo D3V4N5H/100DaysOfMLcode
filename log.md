@@ -396,4 +396,4 @@ Starboy lyrics had null and still worked fine.
 ✅ Sentiment Analysis using TextBlob
 ### Thoughts:
 Graph based Mining was fancy, but on hiatus for now, until I figure out how to import from CSV without that NULL error
-### Link to work: [Commit with changes]()
+### Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/3d689e09a3e1beb9f3f51066c5c1456893e43efb)
