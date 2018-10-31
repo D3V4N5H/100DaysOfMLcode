@@ -397,3 +397,15 @@ Starboy lyrics had null and still worked fine.
 ### Thoughts:
 Graph based Mining was fancy, but on hiatus for now, until I figure out how to import from CSV without that NULL error
 ### Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/3d689e09a3e1beb9f3f51066c5c1456893e43efb)
+
+## Day 43: October 31, 2018
+### Today's Progress:
+✅ Sentiment polarity to Percentage  
+✅ Fixed script breaking when @MusixMatch doesn't have lyrics  
+✅ Only showing lines with non-zero sentiment
+### Thoughts:
+Sometimes, MusixMatch doesn't have lyrics, in which case it sends an empty list instead of dictionary. So that was breaking my script today (even though it worked fine yesterday, as it had lyrics for all top songs in india of yesterday's charts). So I had to put a condition to make sure the script doesn't fail
+
+I'm not showing lines and songs that don't yield a sentiment (i.e. polarity is 0)
+### Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/71c26298cb9f3c8f28c3b12495d36e825b414d77)
+
