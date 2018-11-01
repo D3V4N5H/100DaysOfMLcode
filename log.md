@@ -413,3 +413,32 @@ Sometimes, MusixMatch doesn't have lyrics, in which case it sends an empty list 
 I'm not showing lines and songs that don't yield a sentiment (i.e. polarity is 0)
 ### Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/71c26298cb9f3c8f28c3b12495d36e825b414d77)
 
+## Day 44: November 1, 2018
+### Today's Progress:
+✅ Test Language Detection  
+✅ Test NLTK Part Of Speech (POS) tagging
+### Thoughts:
+Kamariya is controversial. It's based on a Gujarati song, but the song in Hindi. So detecting it as either is good enough; I'm happy it detected it as Gujarati.
+
+However, Language Detection was not accurate for all songs. Proper Patola is in Punjabi, yet it was detected as Gujarati. I will see if I can verify it with data from the API.
+
+#### Tags:
+* Basic:
+  * N	Noun
+  * V	Verb
+  * ADJ	Adjective
+  * ADV	Adverb
+  * P	Preposition
+  * CON	Conjunction
+  * PRO	Pronoun
+  * INT	Interjection
+* Advanced
+  * CC	coordinating conjunction
+  * RB	adverbs
+  * IN	preposition
+  * NN	noun
+  * JJ	adjective
+  * VBP	present tense verb
+
+### Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/72f9c2c8c4a56378e67dcf8cb74b4b45b052abf2)
+
