@@ -442,3 +442,10 @@ However, Language Detection was not accurate for all songs. Proper Patola is in 
 
 ### Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/72f9c2c8c4a56378e67dcf8cb74b4b45b052abf2)
 
+## Day 45: November 2, 2018
+### Today's Progress:
+✅ Compare Language Detection result with data from API
+### Thoughts:
+Initially, I should mine tracks that are in English according to both: API and Language Detection result
+### Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/280af0a6cfc7c1b83e4c6b9cd0ea8ff51996858c)
+
