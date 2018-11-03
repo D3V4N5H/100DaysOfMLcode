@@ -570,3 +570,11 @@ Initially, I should mine tracks that are in English according to both: API and L
 ### Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/280af0a6cfc7c1b83e4c6b9cd0ea8ff51996858c)
 ![](https://pbs.twimg.com/media/DrAvWfxWwAAVtXK.png)
 ![](https://pbs.twimg.com/media/DrAvSaoXQAIoto1.jpg)
+
+## Day 46: November 3, 2018
+### Today's Progress:
+✅ Restrict mining to english by detecting the language and verifying the detection with labeled data from API
+### Thoughts:
+I will now work on finding all the ways to compare environmental factors with lyrics in English language
+### Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/7639c3515d8c42ecdb06d95df4d9dc4a2f1c3ae0)
+![](https://pbs.twimg.com/media/DrFHRZNW4AA_cuo.jpg)
