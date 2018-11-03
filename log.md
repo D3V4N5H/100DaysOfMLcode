@@ -1,6 +1,10 @@
-My name is Devansh Trivedi and this is the log of my progress in the 100 Days of ML code challenge
+My name is **Devansh Trivedi** and this is the log of my progress in the _100 Days of ML code challenge_
 
-I'm following guidelines from this Siraj video: [100 Days of ML Code Challenge](https://youtu.be/cuQMBj1cWPo)
+![Image from 100 Days of ML Code Challenge Siraj's Video](https://pbs.twimg.com/media/DnSpGyWX4AAZnSo.jpg)
+
+I'm following guidelines from [Siraj Raval](https://sirajraval.com): Click on the thumbnail below to watch the video
+
+[![100 Days of ML Code Challenge](https://img.youtube.com/vi/cuQMBj1cWPo/0.jpg)](https://www.youtube.com/watch?v=cuQMBj1cWPo)
 
 **The idea is simple:**
 1. Pick an industry
@@ -8,6 +12,20 @@ I'm following guidelines from this Siraj video: [100 Days of ML Code Challenge](
 3. Locate a Dataset
 4. Apply AI to Data
 5. Create a Solution
+
+# Find my everyday progress at this  <a class="twitter-moment" href="https://twitter.com/i/moments/1042119370896539649">Twitter Moment</a>
+
+
+<blockquote>
+is this things on?
+<br>*microphone screeches*
+<br>
+<br>*Looks at <a href="https://twitter.com/sirajraval">@SirajRaval</a> @ <a href="https://twitter.com/SchoolOfAIOffic">@SchoolOfai</a>*
+<br>*clears throat*<br>
+<br>I&#39;m publicly pledging to the <a href="https://twitter.com/hashtag/100DaysOfMLCode">#100DaysOfMLCode</a> challenge starting today!<br>
+<br>Learn more @ <a href="dvnsh.com">DVNSH.com</a>
+</p>&mdash; <a href="https://twitter.com/devanshRtrivedi">Devansh Trivedi (@devanshRtrivedi)</a> 
+<br><a href="https://twitter.com/devanshRtrivedi/status/1041671282411155456">September 17, 2018</a></blockquote>
 
 # Day 0: September 18, 2018
 # [**Full Report on Medium Article**](http://sync.dvnsh.com/mlday0)
@@ -26,6 +44,7 @@ Hopefully, I will be able to code an AI so everyone can train it to their taste,
 The idea is simple: The song should match the environment. Initially, I will try **Lyrics Text Analysis** to match the lyrics with the words spoken.  
 Then **Linguistic Analysis** of song lyrics will help me detect and interpret emotions, social tendencies, and language style to analyze emotions and feelings that musical artists express in their songs.
 ## Link to work: [StarBoy Repository](https://github.com/D3V4N5H/StarBoy)
+![Starboy NLP image from MusixMatch Developer site](https://pbs.twimg.com/media/DnZZQCkXsAAvZFU.jpg)
 
 # Day 1: September 19, 2018
 # [**Full Report on Medium Article**](http://sync.dvnsh.com/mlday1)
@@ -35,6 +54,9 @@ Then **Linguistic Analysis** of song lyrics will help me detect and interpret em
 NLP is possible to implement natively in Node4j using Cypher queries.  
 However, the ability to access it from python will open doors to many new possibilities
 ## Link to work: [StarBoy.py](https://github.com/D3V4N5H/StarBoy/blob/master/StarBoy.py)
+![](https://pbs.twimg.com/media/DnddcjDWsAIafYS.png)
+![](https://pbs.twimg.com/media/DnZZQCwXoAAUaR0.jpg)
+![](https://pbs.twimg.com/media/DnZZQCoXcAAIJMd.jpg)
 
 # Day 2: September 20, 2018
 # [**Full Report on Medium Article**](http://sync.dvnsh.com/mlday2)
@@ -44,6 +66,7 @@ To achieve this, I'm using Auto-commit transactions in the driver's session.
 ## Thoughts:
 I concluded that a dictionary would be the right data structure to store the frequencies of each word
 ## Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/962e549919bba2d6375cb52ae856419f19cad604)
+![](https://pbs.twimg.com/media/Dnjon_OW4AEM5dY.png)
 
 # Day 3: September 21, 2018
 # [**Full Report on Medium Article**](http://sync.dvnsh.com/mlday3)
@@ -53,6 +76,7 @@ I concluded that a dictionary would be the right data structure to store the fre
 I made the variable name easier to read.  
 Now that I have the Text Adjacency Graph, I can go ahead for the Mining Word Associations
 ## Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/05c96ab331569f1831943aa3d168921935e88888)
+![](https://pbs.twimg.com/media/DnozcbOWwAEZ4pJ.jpg)
 
 # Day 4: September 22, 2018
 # [**Full Report on Medium Article**](http://sync.dvnsh.com/mlday4)
@@ -67,6 +91,8 @@ I'm not sure how implementing Left2 and Right2 will help me, and how to implemen
 [starboy.csv](https://github.com/D3V4N5H/StarBoy/blob/master/starboy.csv)  
 [Queries](https://github.com/D3V4N5H/StarBoy/blob/master/CypherQueries)
 
+![](https://pbs.twimg.com/media/Dns5yfpUwAAGaND.jpg)
+
 # Day 5: September 23, 2018
 # [**Full Report on Medium Article**](http://sync.dvnsh.com/mlday5)
 ## Today's Progress:
@@ -75,6 +101,8 @@ I'm not sure how implementing Left2 and Right2 will help me, and how to implemen
 Very successful, many interesting discoveries  
 Yet I'm still surprised and sad that the AI could not find similarity of the word "starboy"
 ## Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/bf55b72c9c85170b2f14980bc574d8b7dcd79929)
+![](https://pbs.twimg.com/media/Dn4S4tVU8AEQ_yy.jpg)
+![](https://pbs.twimg.com/media/Dn4S6clV4AATEgM.jpg)
 
 # Day 6: September 24, 2018
 # [**Full Report on Medium Article**](http://sync.dvnsh.com/mlday6)
@@ -86,6 +114,8 @@ I will now work on comparing my results with the environment
 ## Links to work:
 [Commit: Queries in starboyGraphQueries.cql](https://github.com/D3V4N5H/StarBoy/commit/97fc56baf9c71e07e20a2175a10f770b617efe9a)  
 [TextRank Python code](https://github.com/D3V4N5H/StarBoy/blob/master/TextRank.py)
+![](https://pbs.twimg.com/media/Dn4S8v2V4AAuFVi.jpg)
+![](https://pbs.twimg.com/media/Dn4TAb4V4AYh-fp.jpg)
 
 ## Day 7: September 25, 2018
 ### Today's Progress:
@@ -97,6 +127,7 @@ MusixMatch has
 14 million lyrics  
 ### Link: [Jupyter Notebook](https://github.com/johnymontana/nlp-graph-notebooks/blob/master/Content%20Recommendation.ipynb)
 
+
 ## Day 8: September 26, 2018
 ### Today's Progress:
 ✅ Designing 'The Song Attribute Graph' data model and schema for Content Based filtering and Recommendation
@@ -105,6 +136,9 @@ I'm advocating content based recommendations at this stage of the project
 Today I had to guess what parameters can be taken into account to find patterns that match the environment  
 To keep my project simple, I have chosen Release Date, Featuring Actor, Genre AND Keywords
 ### Link to work: [Commit with Queries](https://github.com/D3V4N5H/StarBoy/commit/b48685dfa9f8a13574be17c33f666fc340185d8a)
+![](https://pbs.twimg.com/media/DoCI71DXoAAH6ia.jpg)
+![](https://pbs.twimg.com/media/DoCLGOJX0AAlKmi.jpg)
+![](https://pbs.twimg.com/media/DoCI6laWkAAhML8.jpg)
 
 ## Day 9: September 27, 2018
 ### Today's Progress:
@@ -113,6 +147,10 @@ To keep my project simple, I have chosen Release Date, Featuring Actor, Genre AN
 ### Thoughts:
 I wanted to create separate functions for queries to add user, add song, add metadata and link. But because of the limitation of query variables, their scope only exists with the query. So I had to create a common function. If I still wanted to create separate ones, I'd need to MATCH them before making associations to a new variable, which would further complicate the code. I will have a workaround in Python to remedy this by creating query templates and loops.
 ### Link to work: [New python script to generate User Preference and Song Attributes Graph](https://github.com/D3V4N5H/StarBoy/commit/2dd791e57beaf098c6879e8c50f3b6e831b53c70)
+![](https://pbs.twimg.com/media/DoGGcv-XoAA7TxE.jpg)
+![](https://pbs.twimg.com/media/DoGGJWmXkAAxEca.jpg)
+![](https://pbs.twimg.com/media/DoGGMtRXUAAeljC.jpg)
+![](https://pbs.twimg.com/media/DoGGMtaXoAAFzQk.jpg)
 
 ## Day 10: September 28, 2018
 ### Today's Progress:
@@ -123,6 +161,10 @@ track.search
 track.subtitle.get
 matcher.subtitle.get
 ### Link to work: [Script to fetch popular artists in India (use your own api key please)](https://github.com/D3V4N5H/StarBoy/blob/master/mxm%20chart.artists.get.py)
+![](https://pbs.twimg.com/media/DoKkwK3UUAE4HWD.jpg)
+![](https://pbs.twimg.com/media/DoKky3UUwAAq35a.jpg)
+![](https://pbs.twimg.com/media/DoKk035U4AEZGLs.jpg)
+![](https://pbs.twimg.com/media/DoKk4s9UcAAp3o8.jpg)
 
 ## Day 11: September 29, 2018
 ### Today's Progress:
@@ -130,6 +172,7 @@ matcher.subtitle.get
 ### Thoughts:
 Now I will combine both python files : The one that fetches data and the one that fires queries to generate nodes in the graph database to associate data.
 ### Link to work: [Commit to python code](https://github.com/D3V4N5H/StarBoy/commit/61e9663bd47823fd453d3970cf08a3664f256065)
+![](https://pbs.twimg.com/media/DoSJZzXX0AAjOth.png)
 
 ## Day 12: September 30, 2018
 ### Today's Progress:
@@ -138,6 +181,10 @@ Now I will combine both python files : The one that fetches data and the one tha
 ### Thoughts:
 I need more metadata, as I couldn't get some info about tracks from MusixMatch API
 ### Link to work: [That new python file I thought about making yesterday](https://github.com/D3V4N5H/StarBoy/blob/master/userArtistSongMap.py)
+![](https://pbs.twimg.com/media/DoXbojbXgAEeFnr.jpg)
+![](https://pbs.twimg.com/media/DoXbrTGXgAE0gDv.jpg)
+![](https://pbs.twimg.com/media/DoXbtn9X0AAfoaf.jpg)
+![](https://pbs.twimg.com/media/DoXbu81X0AMaJEZ.jpg)
 
 ## Day 13: October 1, 2018
 ### Today's Progress:
@@ -155,6 +202,7 @@ artist.albums.get
 matcher.lyrics.get  
 track.lyrics.get
 ### Link to work: [Commit to the Fix](https://github.com/D3V4N5H/StarBoy/commit/2bbfafbfbf6a8d2d75d7d5c859c4ba35b9e0b9e8)
+![](https://pbs.twimg.com/media/DocwmCnWkAImWF9.jpg)
 
 
 # [**Week 2 Report as Explainer Article**](http://sync.dvnsh.com/mlday7)
@@ -170,6 +218,10 @@ This proves that they DO have the lyrics with them.
 But I'm not able to find the lyrics programmatically.  
 Now I will try to get metadata, eventually reflecting those in the Graph.
 ### Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/425803542ad62e053110398b8d9fd56baa5f9326)
+![](https://pbs.twimg.com/media/DohesfiX0AUMkrs.jpg)
+![](https://pbs.twimg.com/media/DohexlyXgAAPMA0.jpg)
+![](https://pbs.twimg.com/media/Dohe7p2W0AAtEib.jpg)
+![](https://pbs.twimg.com/media/Dohe2tJXUAE08xg.jpg)
 
 ## Day 15: October 3, 2018
 ### Today's Progress:
@@ -178,6 +230,10 @@ Now I will try to get metadata, eventually reflecting those in the Graph.
 ### Thoughts:
 Now I have the Release Date Metadata, but that's not it. A Date Object is convenient in Python. I'm not sure it's a good move to store that information as Node in Graph. I might have to come up with a Hybrid approach if I can't sort it out tomorrow.
 ### Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/ae74585ad3f3b1fb100d357af3923cfe42b62d5b)
+![](https://pbs.twimg.com/media/DomY127XsAERHkb.jpg)
+![](https://pbs.twimg.com/media/DomY3eBW4AIgJ8w.jpg)
+![](https://pbs.twimg.com/media/DomY5YuX0AA6yGs.jpg)
+![](https://pbs.twimg.com/media/DomY7r2XUAEBneo.jpg)
 
 ## Day 16: October 4, 2018
 ### Today's Progress:
@@ -186,6 +242,10 @@ Now I have the Release Date Metadata, but that's not it. A Date Object is conven
 The function I defined was taking too long to execute, as it was fetching track details for every top artist's every single top track. That's too many API calls (about 100, depending on number of items).  
 After inspecting data from previous API calls, I noticed that if I could iterate into the nested dictionary inside tuple inside list inside the callback (phew)!
 ### Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/71ac6ad7a1ca1f3e931c9676031b9b0f20a31443)
+![](https://pbs.twimg.com/media/DorFwtOW0AAwEas.jpg)
+![](https://pbs.twimg.com/media/DorFz_cX0AA0b2p.jpg)
+![](https://pbs.twimg.com/media/DorF1dpXUAA-R74.jpg)
+![](https://pbs.twimg.com/media/DorF1syXkAApifY.jpg)
 
 ## Day 17: October 5, 2018
 ### Today's Progress:
@@ -193,6 +253,8 @@ After inspecting data from previous API calls, I noticed that if I could iterate
 ### Thoughts:
 At this point my project seems to be leaning towards Collaborative filtering based on other users' activity
 ### Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/b4d7072baf1a33bc71a3befdc23b9df0b0196957)
+![](https://pbs.twimg.com/media/Dow7xRVW0AArAIN.jpg)
+![](https://pbs.twimg.com/media/Dow710SXsAAxrYG.jpg)
 
 ## Day 18: October 6, 2018
 ### Today's Progress:
@@ -202,6 +264,10 @@ At this point my project seems to be leaning towards Collaborative filtering bas
 I'm not able to fetch the whole lyrics. I'll work with what I have now.  
 I'm planning to take Top Tracks of India as Training Data and use Top Artists' Songs to find recommendations.
 ### Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/4ef724a446cf1e2bd85d277156942b2b29603f35)
+![](https://pbs.twimg.com/media/Do2EfgEXkAEpp61.jpg)
+![](https://pbs.twimg.com/media/Do2Er5GW0AA9FPK.jpg)
+![](https://pbs.twimg.com/media/Do2Er5aXsAEkc1s.jpg)
+![](https://pbs.twimg.com/media/Do2Er5KXgAEQYFz.jpg)
 
 ## Day 19: October 7, 2018
 ### Today's Progress:
@@ -210,6 +276,10 @@ I'm planning to take Top Tracks of India as Training Data and use Top Artists' S
 ### Thoughts:
 This is where my previous work about generating weighted keywords can pitch in to UNDERSTAND the lyrics.
 ### Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/08cbeb7d3c51b4fcb50dd5675bd20917c04a4e86)
+![](https://pbs.twimg.com/media/Do5wsOfX4AAjkUW.jpg)
+![](https://pbs.twimg.com/media/Do5wumGXgAAx71V.jpg)
+![](https://pbs.twimg.com/media/Do5wv-YXsAAdBFT.jpg)
+![](https://pbs.twimg.com/media/Do5wx-AXoAAOcMv.jpg)
 
 ## Day 20: October 8, 2018
 ### Today's Progress:
@@ -219,9 +289,12 @@ This is where my previous work about generating weighted keywords can pitch in t
 Genius.com [resources](https://genius.com/3317959) helped understand parts of the lyrics  
 The data in my file is analogous to the csv file that I manually generated at the beginning of the project. Getting lyrics is now officially automated !!
 ### Link to work: [Commit to New File](https://github.com/D3V4N5H/StarBoy/commit/5b38af182c69b2dff9036bcb3ed21881456430f9)
-
+![](https://pbs.twimg.com/media/Do_blFoUUAAcISl.jpg)
+![](https://pbs.twimg.com/media/Do_bnQ4VAAECuFC.jpg)
+![](https://pbs.twimg.com/media/Do_bo97V4AMWAVS.jpg)
 
 # [**Week 3 Report as Explainer Article**](http://sync.dvnsh.com/mlday14)
+![](https://pbs.twimg.com/media/Do_jaeRUYAEpi-7.jpg)
 
 
 ## Day 21: October 9, 2018
@@ -229,6 +302,7 @@ The data in my file is analogous to the csv file that I manually generated at th
 😭 Failed to import line by line lyrics into @neo4j (without using CSV)
 ### Thoughts:
 Tried doing this for 4 Hours. It's too complicated.
+![](https://pbs.twimg.com/media/DpFXg2PWwAMiuzj.jpg)
 
 ## Day 22: October 10, 2018
 ### Today's Progress:
@@ -241,6 +315,8 @@ Despite that, my mining was very accurate.
 
 I was tempted to use an iterator for the word-by-word query but when it didn't work, so I sticked with coding that part from the scratch.
 ### Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/4695d4e1dd30ea86528356ef4bdaa57a0d3a7cbd)
+![](https://pbs.twimg.com/media/DpKrkTEW0AAGDeL.jpg)
+![](https://pbs.twimg.com/media/DpKrkSxW0AAlJAL.jpg)
 
 ## Day 23: October 11, 2018
 ### Today's Progress:
@@ -248,6 +324,9 @@ I was tempted to use an iterator for the word-by-word query but when it didn't w
 ### Thoughts:
 I tried to create nodes with separate labels for each song, but it seems that's not possible. So now I will have to mine each of the tracks one-by-one inside the same loop instead of batch mining !
 ### Link to work: [Commit Creating 'Mining Top Tracks in india.py](https://github.com/D3V4N5H/StarBoy/commit/00d2ea4feb035da7aaa1321d38fdf6ecab2a7dec)
+![](https://pbs.twimg.com/media/DpP1LGpW0AAlvD5.jpg)
+![](https://pbs.twimg.com/media/DpP1LSsWsAUmjWq.jpg)
+![](https://pbs.twimg.com/media/DpP1N6VW4AAo-Up.jpg)
 
 ## Day 24: October 12, 2018
 ### Today's Progress:
@@ -255,6 +334,8 @@ I tried to create nodes with separate labels for each song, but it seems that's 
 ### Thoughts:
 Now I can batch-mine all songs in the graph, and know which song a particular cluster of nodes belongs to :D  
 ### Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/7217f4048ee686811c6213cb4d08d780940353bb)
+![](https://pbs.twimg.com/media/DpU5VcjWwAAiJ6P.jpg)
+![](https://pbs.twimg.com/media/DpU5XA9XoAAiIsv.jpg)
 
 ## Day 25: October 13, 2018
 ### Today's Progress:
@@ -262,6 +343,9 @@ Now I can batch-mine all songs in the graph, and know which song a particular cl
 ### Thoughts:
 Some words are repeated as nodes. I will need to debug this, as most weighted pairs are the same words in the results
 ### Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/c4667d792249211593b6eb52e816e72f125eb72a)
+![](https://pbs.twimg.com/media/DpaHNlpW0AIESch.jpg)
+![](https://pbs.twimg.com/media/DpaHPRSW0AAo1Cc.jpg)
+![](https://pbs.twimg.com/media/DpaHR1vWkAAIOte.jpg)
 
 ## Day 26: October 14, 2018
 ### Today's Progress:
@@ -270,6 +354,7 @@ Some words are repeated as nodes. I will need to debug this, as most weighted pa
 I found multiple nodes(at least two) with same words  
 Something is wrong. I'm expecting unique nodes.
 ### Link to image: [pic on Twitter](https://pbs.twimg.com/media/DpkJRxoW0AMHxT0.jpg:large)
+![](https://pbs.twimg.com/media/DpkJRxoW0AMHxT0.jpg)
 
 ## Day 27: October 15, 2018
 ### Today's Progress:
@@ -277,10 +362,10 @@ Something is wrong. I'm expecting unique nodes.
 ### Thoughts:
 After refactoring the mining process, another instance of the mined graph indicates that the issue has prevailed.
 ### Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/756852ee834a0cf661b6c036ac9df221c55558e1)
-
+![](https://pbs.twimg.com/media/DpkeA55XcAAeQmw.jpg)
 
 # [**Week 4 Report as Explainer Article**](http://sync.dvnsh.com/mlday21)
-
+![](https://pbs.twimg.com/media/Dp8OGC_UUAArIcD.jpg)
 
 ## Day 28: October 16, 2018
 ### Today's Progress:
@@ -289,6 +374,7 @@ After refactoring the mining process, another instance of the mined graph indica
 ### Thoughts:
 I have no idea of the weird unexpected codes I'm looking at. This has never happened before.
 ### Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/6634918160f8f6fe396c5aecb6c445ce0de45e30)
+![](https://pbs.twimg.com/media/DppjZ4QWwAEIMf2.jpg)
 
 ## Day 29: October 17, 2018
 ### Today's Progress:
@@ -296,6 +382,7 @@ I have no idea of the weird unexpected codes I'm looking at. This has never happ
 ### Thoughts:
 Finally it works as intended, can't wait to fetch and display keywords mined from each song now !
 ### Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/72161604f84be9c3a9c80fd0bef7fe57d27cfb13)
+![](https://pbs.twimg.com/media/Dpu64hIW0AI2pnj.jpg)
 
 ## Day 30: October 18, 2018
 ### Today's Progress:
@@ -303,6 +390,7 @@ Finally it works as intended, can't wait to fetch and display keywords mined fro
 ### Thoughts:
 The script is taking significant time to execute
 ### Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/9e1298606051cf92607e7d5ca67d6af6f5b129e4)
+![](https://pbs.twimg.com/media/DpzETgpU4AA3yL4.jpg)
 
 ## Day 31: October 19, 2018
 ### Today's Progress:
@@ -310,6 +398,7 @@ The script is taking significant time to execute
 ### Thoughts:
 I really wish I could just iterate on it!
 ### Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/aed6b05e5feae8ce5078f08342286a4b4402ef24)
+![](https://pbs.twimg.com/media/DpzETgdU8AADIf0.jpg)
 
 ## Day 32: October 20, 2018
 ### Today's Progress:
@@ -318,6 +407,8 @@ I really wish I could just iterate on it!
 ### Thoughts:
 I couldn't find how Pypher could help me access records from the graph, so I implemented the code without it
 ### Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/924311c7c81b6eee7b7f11fc6c68a75b16e23d01)
+![](https://pbs.twimg.com/media/Dp8GBncU4AA3lUV.jpg)
+![](https://pbs.twimg.com/media/Dp8GBnNVsAMCRvt.jpg)
 
 ## Day 33: October 21, 2018
 ### Today's Progress:
@@ -325,6 +416,7 @@ I couldn't find how Pypher could help me access records from the graph, so I imp
 ### Thoughts:
 This is really interesting, and I suspect this is due to the way I'm passing words to the graph
 ### Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/ea3c9a7fd09cfbcfd12d210ae33e1b00e6238d78)
+![](https://pbs.twimg.com/media/DqBn_IdVAAERbS1.jpg)
 
 ## Day 34: October 22, 2018
 ### Today's Progress:
@@ -332,7 +424,10 @@ This is really interesting, and I suspect this is due to the way I'm passing wor
 ### Thoughts:
 I hope to get a Comma-Separated-LINES instead of Comma-Separated-WORDS tomorrow
 ### Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/d0abf13b640083255e31df566eccc96cc1f08d03)
-
+![](https://pbs.twimg.com/media/DqHQa7nVYAImYoj.jpg)
+![](https://pbs.twimg.com/media/DqHQZyPVsAAYrHc.png)
+![](https://pbs.twimg.com/media/DqHQYuKUwAA7Q9w.png)
+![](https://pbs.twimg.com/media/DqHQXR1UUAEh5KW.png)
 
 # [**Week 5 Report as Explainer Article**](http://sync.dvnsh.com/mlday28)
 
@@ -343,6 +438,10 @@ I hope to get a Comma-Separated-LINES instead of Comma-Separated-WORDS tomorrow
 ### Thoughts:
 Interestingly, some lines were blank
 ### Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/2126251d2b83b0369026a43be8dc0abf5da5ad99)
+![](https://pbs.twimg.com/media/DqMK_kKU8AELgN7.jpg)
+![](https://pbs.twimg.com/media/DqMLAzRUUAECRfK.png)
+![](https://pbs.twimg.com/media/DqMK-EsVYAA-k5E.png)
+![](https://pbs.twimg.com/media/DqMLCZMVsAAa-oL.png)
 
 ## Day 36: October 24, 2018
 ### Today's Progress:
@@ -351,6 +450,8 @@ Interestingly, some lines were blank
 ### Thoughts:
 The number of nodes surprisingly increased after removing blank lines
 ### Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/9c1cd4721dbfa9fde551eef9a12ef6b39e07fef2)
+![](https://pbs.twimg.com/media/DqQWA2HXgAErOdT.jpg)
+![](https://pbs.twimg.com/media/DqQWCMoWwAAtvj5.jpg)
 
 ## Day 37: October 25, 2018
 ### Today's Progress:
@@ -358,6 +459,7 @@ The number of nodes surprisingly increased after removing blank lines
 ### Thoughts:
 I wish there was a way to FIND OUT where is the current graph located using the driver
 ### Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/7ed65e5a6508918c668518ec778a6b0b25424069)
+![](https://pbs.twimg.com/media/DqWAoV5WkAAD38o.jpg)
 
 ## Day 38: October 26, 2018
 ### Today's Progress:
@@ -368,12 +470,14 @@ Found '0' values for words...
 I checked the CSV file, and it didn't have any '0' in it !
 ### Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/b405c9b59fada21989851d7bf2c4edb642f4d4f0)
 
+
 ## Day 39: October 27, 2018
 ### Today's Progress:
 ✅ Replicate the successful mining in Starboy in the loop of 'Mining Top Tracks in india' script
 ### Thoughts:
 My code is right, but the Database throws Illegal Character error for songs that have SPACE in their name
 ### Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/d5547344d5f22137ff7f802126e06aa430de2abf)
+![](https://pbs.twimg.com/media/DqhGPf6X0AAUlcj.jpg)
 
 ## Day 40: October 28, 2018
 ### Today's Progress:
@@ -381,6 +485,9 @@ My code is right, but the Database throws Illegal Character error for songs that
 ### Thoughts:
 Feels like I'm hitting a wall here
 ### Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/c8593c416e7a1d2f522527841d216a78a5c91ccb)
+![](https://pbs.twimg.com/media/DqmUEejX0AEfFZi.jpg)
+![](https://pbs.twimg.com/media/DqmUGCjXgAEZlKR.jpg)
+![](https://pbs.twimg.com/media/DqmUJsvXQAYvQXd.jpg)
 
 ## Day 41: October 29, 2018
 ### Today's Progress:
@@ -390,7 +497,9 @@ Feels like I'm hitting a wall here
 I removed the last empty line in the CSV manually and checked for other NULL values with Python.  
 Starboy lyrics had null and still worked fine.
 ### Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/46c5b75186998288d4a5317d14e3bf41ea8d263d)
-
+![](https://pbs.twimg.com/media/DqrBqxsVAAEUKAl.jpg)
+![](https://pbs.twimg.com/media/DqrBmAuU4AE7Mo1.jpg)
+![](https://pbs.twimg.com/media/DqrBo6DUUAIHAp_.jpg)
 
 # [**Week 6 Report as Explainer Article**](http://sync.dvnsh.com/mlday35)
 
@@ -401,6 +510,9 @@ Starboy lyrics had null and still worked fine.
 ### Thoughts:
 Graph based Mining was fancy, but on hiatus for now, until I figure out how to import from CSV without that NULL error
 ### Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/3d689e09a3e1beb9f3f51066c5c1456893e43efb)
+![](https://pbs.twimg.com/media/DqwsDnVU4AAw3AG.jpg)
+![](https://pbs.twimg.com/media/DqwsF_8U0AAU4j-.jpg)
+![](https://pbs.twimg.com/media/DqwrwcZVAAA3Kdy.jpg)
 
 ## Day 43: October 31, 2018
 ### Today's Progress:
@@ -412,6 +524,10 @@ Sometimes, MusixMatch doesn't have lyrics, in which case it sends an empty list 
 
 I'm not showing lines and songs that don't yield a sentiment (i.e. polarity is 0)
 ### Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/71c26298cb9f3c8f28c3b12495d36e825b414d77)
+![](https://pbs.twimg.com/media/Dq2j9_NXQAA8vCL.jpg)
+![](https://pbs.twimg.com/media/Dq2kEYjWkAIz5es.jpg)
+![](https://pbs.twimg.com/media/Dq2kGOqXgAAh0ge.jpg)
+![](https://pbs.twimg.com/media/Dq2kAQaWkAE1nQ_.jpg)
 
 ## Day 44: November 1, 2018
 ### Today's Progress:
@@ -441,6 +557,10 @@ However, Language Detection was not accurate for all songs. Proper Patola is in 
   * VBP	present tense verb
 
 ### Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/72f9c2c8c4a56378e67dcf8cb74b4b45b052abf2)
+![](https://pbs.twimg.com/media/Dq7enGYW4AA2hq2.jpg)
+![](https://pbs.twimg.com/media/Dq7eqs7XgAE0GJy.jpg)
+![](https://pbs.twimg.com/media/Dq7eu5oWkAADwso.jpg)
+![](https://pbs.twimg.com/media/Dq7etBWX4AAyrgo.jpg)
 
 ## Day 45: November 2, 2018
 ### Today's Progress:
@@ -448,4 +568,5 @@ However, Language Detection was not accurate for all songs. Proper Patola is in 
 ### Thoughts:
 Initially, I should mine tracks that are in English according to both: API and Language Detection result
 ### Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/280af0a6cfc7c1b83e4c6b9cd0ea8ff51996858c)
-
+![](https://pbs.twimg.com/media/DrAvWfxWwAAVtXK.png)
+![](https://pbs.twimg.com/media/DrAvSaoXQAIoto1.jpg)
