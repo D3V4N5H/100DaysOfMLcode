@@ -578,3 +578,15 @@ Initially, I should mine tracks that are in English according to both: API and L
 I will now work on finding all the ways to compare environmental factors with lyrics in English language
 ### Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/7639c3515d8c42ecdb06d95df4d9dc4a2f1c3ae0)
 ![](https://pbs.twimg.com/media/DrFHRZNW4AA_cuo.jpg)
+
+## Day 47: November 4, 2018
+### Today's Progress:
+✅ Sad percentage value should be absolute, not negative  
+✅ Naive Bayes Tokenization and comparison with Pattern Analyzer
+### Thoughts:
+I would tolerate percentage difference, but in some cases the polarity is totally opposite. I will need to listen these songs, read lyrics and manually verify if the sentiments are consistent with the algorithms (which can be subjective).
+### Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/8b702b46880a8d0418d9ce85094493cae74e3e2f)
+![](https://pbs.twimg.com/media/DrKYV0-WwAAwpbn.jpg)
+![](https://pbs.twimg.com/media/DrKYYfEX0AE_3DV.jpg)
+![](https://pbs.twimg.com/media/DrKYZ8ZWoAAuAFp.jpg)
+
