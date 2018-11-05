@@ -590,3 +590,11 @@ I would tolerate percentage difference, but in some cases the polarity is totall
 ![](https://pbs.twimg.com/media/DrKYYfEX0AE_3DV.jpg)
 ![](https://pbs.twimg.com/media/DrKYZ8ZWoAAuAFp.jpg)
 
+## Day 48: November 5, 2018
+### Today's Progress:
+✅ Use @IBM Watson from BlueMix Console for Natural Language Understanding of 'Entities and Keywords'
+### Thoughts:
+I will need more time to go through the documentation for taking full advantage of Watson's services
+### Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/4946ba2e6986862655d4a458981fc2180f0206a9)
+![](https://pbs.twimg.com/media/DrQktr4U0AEBLmD.png)
+![](https://pbs.twimg.com/media/DrQkvG9U4AAZbCe.jpg)
