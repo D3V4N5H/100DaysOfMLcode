@@ -598,3 +598,12 @@ I will need more time to go through the documentation for taking full advantage 
 ### Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/4946ba2e6986862655d4a458981fc2180f0206a9)
 ![](https://pbs.twimg.com/media/DrQktr4U0AEBLmD.png)
 ![](https://pbs.twimg.com/media/DrQkvG9U4AAZbCe.jpg)
+
+## Day 49: November 6, 2018
+### Today's Progress:
+✅ Line-By-Line comparison of Sentiment Analysis Result from PatternAnalyzer and NaiveBayesAnalyzer (an NLTK classifier)
+### Thoughts:
+I will use IBM Watson's Natural Language Understanding only when there is conflict between these two (One thinks sad, another happy)
+### Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/0af5009373ddd9d5b41e1fe3e5f4ab079645b4cd)
+![](https://pbs.twimg.com/media/DrUyKwwU0AYKlFK.jpg)
+![](https://pbs.twimg.com/media/DrUyMFPUUAA6AdD.jpg)
