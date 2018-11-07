@@ -501,6 +501,7 @@ Starboy lyrics had null and still worked fine.
 ![](https://pbs.twimg.com/media/DqrBmAuU4AE7Mo1.jpg)
 ![](https://pbs.twimg.com/media/DqrBo6DUUAIHAp_.jpg)
 
+
 # [**Week 6 Report as Explainer Article**](http://sync.dvnsh.com/mlday35)
 
 
@@ -598,6 +599,11 @@ I will need more time to go through the documentation for taking full advantage 
 ### Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/4946ba2e6986862655d4a458981fc2180f0206a9)
 ![](https://pbs.twimg.com/media/DrQktr4U0AEBLmD.png)
 ![](https://pbs.twimg.com/media/DrQkvG9U4AAZbCe.jpg)
+
+
+# [**Week 7 Report as Explainer Article**](http://sync.dvnsh.com/mlday42)
+![](https://cdn-images-1.medium.com/max/800/0*kCCt18G0Im6hBY57)
+
 
 ## Day 49: November 6, 2018
 ### Today's Progress:
