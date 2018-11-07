@@ -604,6 +604,18 @@ I will need more time to go through the documentation for taking full advantage 
 ✅ Line-By-Line comparison of Sentiment Analysis Result from PatternAnalyzer and NaiveBayesAnalyzer (an NLTK classifier)
 ### Thoughts:
 I will use IBM Watson's Natural Language Understanding only when there is conflict between these two (One thinks sad, another happy)
-### Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/0af5009373ddd9d5b41e1fe3e5f4ab079645b4cd)
+### Link to work: [IBM NLU.py](https://github.com/D3V4N5H/StarBoy/commit/0af5009373ddd9d5b41e1fe3e5f4ab079645b4cd)
 ![](https://pbs.twimg.com/media/DrUyKwwU0AYKlFK.jpg)
 ![](https://pbs.twimg.com/media/DrUyMFPUUAA6AdD.jpg)
+
+## Day 50: November 7, 2018
+### Today's Progress:
+✅ Emotional Understanding by IBM Watson of The Weeknd song 'Starboy'
+### Thoughts:
+I wish I could find out why Watson thinks Jamie Foxx has something to do with this song.
+### Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/44ddfa260536cdcdb01d782d76eb05c467cc6011)
+![](https://pbs.twimg.com/media/DrZxLq3VAAUADEn.jpg)
+![](https://pbs.twimg.com/media/DrZxOmNU8AAlmY9.jpg)
+![](https://pbs.twimg.com/media/DrZxQY5VYAEeYLt.jpg)
+![](https://pbs.twimg.com/media/DrZxRxfUcAMwyRw.jpg)
+
