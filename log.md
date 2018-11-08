@@ -625,3 +625,10 @@ I wish I could find out why Watson thinks Jamie Foxx has something to do with th
 ![](https://pbs.twimg.com/media/DrZxQY5VYAEeYLt.jpg)
 ![](https://pbs.twimg.com/media/DrZxRxfUcAMwyRw.jpg)
 
+## Day 51: November 8, 2018
+### Today's Progress:
+✅ Sentiment Analysis head to head showdown "Pattern Analyzer" vs. "Naive Bayes" judged by our chief guest IBM Watson
+### Thoughts:
+
+### Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/b39d8fc37c7ae85636866833f0d1d3507ff0cbca)
+![](https://pbs.twimg.com/media/DrgBhIRU8AA1p62.jpg)
