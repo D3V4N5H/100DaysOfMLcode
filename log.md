@@ -629,6 +629,21 @@ I wish I could find out why Watson thinks Jamie Foxx has something to do with th
 ### Today's Progress:
 ✅ Sentiment Analysis head to head showdown "Pattern Analyzer" vs. "Naive Bayes" judged by our chief guest IBM Watson
 ### Thoughts:
-
+This is hard to judge as I'm not getting full lyrics from the MusixMatch API
 ### Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/b39d8fc37c7ae85636866833f0d1d3507ff0cbca)
 ![](https://pbs.twimg.com/media/DrgBhIRU8AA1p62.jpg)
+
+## Day 52: November 9, 2018
+### Today's Progress:
+✅ Deeper insights from IBM Watson from full lyrics of The Weeknd 'Starboy'
+### Thoughts:
+This is very useful. I think I should stick with IBM for understanding both - enviroment and song
+### Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/08cccca8b1ecbfae2b0829aee5418fdbed64d48e)
+![](https://pbs.twimg.com/media/DrjRoLaU4AAVsRU.jpg)
+***
+![](https://pbs.twimg.com/media/DrjRrH0VsAA_JJX.jpg)
+***
+![](https://pbs.twimg.com/media/DrjRrIxV4AIPo3o.jpg)
+***
+![](https://pbs.twimg.com/media/DrjRrIwVsAU51Tn.jpg)
+
