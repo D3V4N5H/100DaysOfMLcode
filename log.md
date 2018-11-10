@@ -649,8 +649,8 @@ This is very useful. I think I should stick with IBM for understanding both - en
 
 ## Day 53: November 10, 2018
 ### Today's Progress:
-✅ Search for Song ID in @Genius.com database
-✅ Use song ID to fetch description of the song
+✅ Search for Song ID in @Genius.com database  
+✅ Use song ID to fetch description of the song  
 ✅ Sentiment Analysis of : Lyrics + Description
 ### Thoughts:
 Implementing OAuth2 Access Token based Authorization was really challenging
