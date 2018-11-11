@@ -659,3 +659,17 @@ Implementing OAuth2 Access Token based Authorization was really challenging
 ![](https://pbs.twimg.com/media/DrqJEgRVAAA74KF.jpg)
 ![](https://pbs.twimg.com/media/DrqJH6ZU0AAus4P.png)
 ![](https://pbs.twimg.com/media/DrqJKUwUUAE2Y-e.jpg)
+
+## Day 54: November 11, 2018
+✅ Scrape Full lyrics from @Genius.com  
+✅ Perform Sentiment Analysis on it  
+✅ Change Country from india to USA as I only want to mine English songs
+### Thoughts:
+Didn't get any output from the script as I had configured it to only mine English songs, and all top songs happened to be non-English today.
+
+I'm not sure if scraping is allowed, I didn't find anything against it in the official documentation
+
+Will keep MusixMatch as a fallback in case I can't find lyrics from Genius.com
+### Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/9f94e2887c1815816a52f00843c3ca47897c9f53)
+![](https://pbs.twimg.com/media/DrvoMBkUcAAIH1N.jpg)
+![](https://pbs.twimg.com/media/DrvoOsQVAAEJvx9.jpg)
