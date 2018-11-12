@@ -31,8 +31,11 @@ is this things on?
 # [**Full Report on Medium Article**](http://sync.dvnsh.com/mlday0)
 ## Today's Progress:
 ✅ Step 1: Picked Music Industry  
+
 ✅ Step 2: Found a Problem: ProActive Music Selection  
+
 ✅ Made Word-Pair Frequency Graph in Neo4j using Cypher language
+
 Used Starboy lyrics csv
 ## Thoughts:
 This idea comes from a movie as old as me, Flubber (1997).  
@@ -82,7 +85,9 @@ Now that I have the Text Adjacency Graph, I can go ahead for the Mining Word Ass
 # [**Full Report on Medium Article**](http://sync.dvnsh.com/mlday4)
 ## Today's Progress:
 ✅ Implemented Left1, Right1, Count Left1 and Right1, Find highest Left1 and Right1  
+
 ✅ Uploaded starboy.csv  
+
 ✅ Created a list of queries on Github repository for everyone else to try the same
 ## Thoughts:
 I was amazed by the fact that the grammar articles "the" and "a" came out to be the most frequent Adjacent nodes in the graph.
@@ -143,6 +148,7 @@ To keep my project simple, I have chosen Release Date, Featuring Actor, Genre AN
 ## Day 9: September 27, 2018
 ### Today's Progress:
 ✅ Created python script to generate User Preference and Song Attributes Graph for Content-based Recommendations  
+
 ✅ Signed up for MusixMatch API, got API key and Studied its documentation
 ### Thoughts:
 I wanted to create separate functions for queries to add user, add song, add metadata and link. But because of the limitation of query variables, their scope only exists with the query. So I had to create a common function. If I still wanted to create separate ones, I'd need to MATCH them before making associations to a new variable, which would further complicate the code. I will have a workaround in Python to remedy this by creating query templates and loops.
@@ -177,6 +183,7 @@ Now I will combine both python files : The one that fetches data and the one tha
 ## Day 12: September 30, 2018
 ### Today's Progress:
 ✅ Another API call to get songs of Top Artists in India  
+
 ✅ Show these associations in the neo4j Graph Database
 ### Thoughts:
 I need more metadata, as I couldn't get some info about tracks from MusixMatch API
@@ -189,6 +196,7 @@ I need more metadata, as I couldn't get some info about tracks from MusixMatch A
 ## Day 13: October 1, 2018
 ### Today's Progress:
 ✅ Fixed Top Artists for India (country parameter was for US) API call  
+
 ✅ Added Top Tracks in India list
 ### Thoughts:
 track.snippet.get didn't work for starboy track_id 144134659, not even in the playground
@@ -211,6 +219,7 @@ track.lyrics.get
 ## Day 14: October 2, 2018
 ### Today's Progress:
 ✅ Made a function to handle APIs better  
+
 ✅ Combined approach: Finding Best songs OF Best artists
 ### Thoughts:
 I tested lyrics by watching the Starboy video on Youtube with MusixMatch Chrome Extension and it worked fine.  
@@ -226,6 +235,7 @@ Now I will try to get metadata, eventually reflecting those in the Graph.
 ## Day 15: October 3, 2018
 ### Today's Progress:
 ✅ Convert listOfTracks to a dictionary with track_name, track_id as values  
+
 ✅ Fetch and Parse the Release Date
 ### Thoughts:
 Now I have the Release Date Metadata, but that's not it. A Date Object is convenient in Python. I'm not sure it's a good move to store that information as Node in Graph. I might have to come up with a Hybrid approach if I can't sort it out tomorrow.
@@ -259,6 +269,7 @@ At this point my project seems to be leaning towards Collaborative filtering bas
 ## Day 18: October 6, 2018
 ### Today's Progress:
 ✅ Finally managed to fetch lyrics of Top Songs in #India songs to train the AI  
+
 ✅ Made API method much better
 ### Thoughts:
 I'm not able to fetch the whole lyrics. I'll work with what I have now.  
@@ -272,6 +283,7 @@ I'm planning to take Top Tracks of India as Training Data and use Top Artists' S
 ## Day 19: October 7, 2018
 ### Today's Progress:
 ✅ Cleared other parts in the lyrics, so it's much more readable now (Compared to yesterday)  
+
 ✅ Refactored the code
 ### Thoughts:
 This is where my previous work about generating weighted keywords can pitch in to UNDERSTAND the lyrics.
@@ -284,6 +296,7 @@ This is where my previous work about generating weighted keywords can pitch in t
 ## Day 20: October 8, 2018
 ### Today's Progress:
 ✅ New Python file to parse the #StarBoy lyrics  
+
 ✅ Removed background vocals in brackets
 ### Thoughts:
 Genius.com [resources](https://genius.com/3317959) helped understand parts of the lyrics  
@@ -307,6 +320,7 @@ Tried doing this for 4 Hours. It's too complicated.
 ## Day 22: October 10, 2018
 ### Today's Progress:
 ✅ [Michael Hunger](https://twitter.com/@mesirii) helps me import the data to the graph  
+
 ✅ Mining Paradigmatic Word Associations in lyrics from API calls
 ### Thoughts:
 Today's date is 10 on 10 (10/10), and so was my progress.  
@@ -403,6 +417,7 @@ I really wish I could just iterate on it!
 ## Day 32: October 20, 2018
 ### Today's Progress:
 ✅ Learned Pypher  
+
 ✅ Finally imported from Graph (though strangely all weights are 1.0)
 ### Thoughts:
 I couldn't find how Pypher could help me access records from the graph, so I implemented the code without it
@@ -446,6 +461,7 @@ Interestingly, some lines were blank
 ## Day 36: October 24, 2018
 ### Today's Progress:
 ✅ Imporved Lyrics cleaning using loops  
+
 ✅ CSV export is tip top, no blank lines now
 ### Thoughts:
 The number of nodes surprisingly increased after removing blank lines
@@ -464,6 +480,7 @@ I wish there was a way to FIND OUT where is the current graph located using the 
 ## Day 38: October 26, 2018
 ### Today's Progress:
 ✅ Mine the lyrics imported from CSV  
+
 ✅ Store the result in a Python dictionary
 ### Thoughts:
 Found '0' values for words...  
@@ -518,7 +535,9 @@ Graph based Mining was fancy, but on hiatus for now, until I figure out how to i
 ## Day 43: October 31, 2018
 ### Today's Progress:
 ✅ Sentiment polarity to Percentage  
+
 ✅ Fixed script breaking when @MusixMatch doesn't have lyrics  
+
 ✅ Only showing lines with non-zero sentiment
 ### Thoughts:
 Sometimes, MusixMatch doesn't have lyrics, in which case it sends an empty list instead of dictionary. So that was breaking my script today (even though it worked fine yesterday, as it had lyrics for all top songs in india of yesterday's charts). So I had to put a condition to make sure the script doesn't fail
@@ -533,6 +552,7 @@ I'm not showing lines and songs that don't yield a sentiment (i.e. polarity is 0
 ## Day 44: November 1, 2018
 ### Today's Progress:
 ✅ Test Language Detection  
+
 ✅ Test NLTK Part Of Speech (POS) tagging
 ### Thoughts:
 Kamariya is controversial. It's based on a Gujarati song, but the song in Hindi. So detecting it as either is good enough; I'm happy it detected it as Gujarati.
@@ -583,6 +603,7 @@ I will now work on finding all the ways to compare environmental factors with ly
 ## Day 47: November 4, 2018
 ### Today's Progress:
 ✅ Sad percentage value should be absolute, not negative  
+
 ✅ Naive Bayes Tokenization and comparison with Pattern Analyzer
 ### Thoughts:
 I would tolerate percentage difference, but in some cases the polarity is totally opposite. I will need to listen these songs, read lyrics and manually verify if the sentiments are consistent with the algorithms (which can be subjective).
@@ -650,7 +671,9 @@ This is very useful. I think I should stick with IBM for understanding both - en
 ## Day 53: November 10, 2018
 ### Today's Progress:
 ✅ Search for Song ID in @Genius.com database  
+
 ✅ Use song ID to fetch description of the song  
+
 ✅ Sentiment Analysis of : Lyrics + Description
 ### Thoughts:
 Implementing OAuth2 Access Token based Authorization was really challenging
@@ -661,8 +684,11 @@ Implementing OAuth2 Access Token based Authorization was really challenging
 ![](https://pbs.twimg.com/media/DrqJKUwUUAE2Y-e.jpg)
 
 ## Day 54: November 11, 2018
+### Today's Progress:
 ✅ Scrape Full lyrics from @Genius.com  
+
 ✅ Perform Sentiment Analysis on it  
+
 ✅ Change Country from india to USA as I only want to mine English songs
 ### Thoughts:
 Didn't get any output from the script as I had configured it to only mine English songs, and all top songs happened to be non-English today.
@@ -673,3 +699,18 @@ Will keep MusixMatch as a fallback in case I can't find lyrics from Genius.com
 ### Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/9f94e2887c1815816a52f00843c3ca47897c9f53)
 ![](https://pbs.twimg.com/media/DrvoMBkUcAAIH1N.jpg)
 ![](https://pbs.twimg.com/media/DrvoOsQVAAEJvx9.jpg)
+
+## Day 55: November 12, 2018
+### Today's Progress:
+✅ Get lyrics from #PoweredByMusixMatch when not available in @Genius  
+
+✅ Extract Noun phrases from the blob  
+
+✅ Change Country back to India for testing  
+### Thoughts:
+I also did some refactoring that made the script faster  
+I will need to decide how to deal with Language labels coming from different APIs  
+Maybe I can match noun phrases with data from environment
+### Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/b93d54e3470c1cd5b08c400c2a853985e5d1c987)
+![](https://pbs.twimg.com/media/Dr0uyuVVsAAeiyu.jpg)
+![](https://pbs.twimg.com/media/Dr0u0GDVsAAZJV8.jpg)
