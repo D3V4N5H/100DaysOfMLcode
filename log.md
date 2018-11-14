@@ -726,3 +726,15 @@ My card doesn't have that
 ### Link to work: [Pull Request](https://github.com/watson-developer-cloud/python-sdk/pull/595)
 ![](https://pbs.twimg.com/media/Dr88hVUU0AIAxWF.jpg)
 ![](https://pbs.twimg.com/media/Dr88refVAAAwPWx.jpg)
+
+## Day 57: November 14, 2018
+### Today's Progress:
+✅ IBM Watson continuous Speech-To-Text transcription from Microphone using WebSocket
+### Thoughts:
+"Now the output is much more neat"  
+We're not shaking hands yet
+### Link to work: []()
+![](https://pbs.twimg.com/media/Dr-YBPcU0AE4Tw2.jpg)
+![](https://pbs.twimg.com/media/Dr-YDyHVAAEK0On.jpg)
+![](https://pbs.twimg.com/media/Dr-YGQlU8AAGN2g.jpg)
+![](https://pbs.twimg.com/media/Dr-YHvAVYAAZ9wx.jpg)
