@@ -714,3 +714,15 @@ Maybe I can match noun phrases with data from environment
 ### Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/b93d54e3470c1cd5b08c400c2a853985e5d1c987)
 ![](https://pbs.twimg.com/media/Dr0uyuVVsAAeiyu.jpg)
 ![](https://pbs.twimg.com/media/Dr0u0GDVsAAZJV8.jpg)
+
+## Day 56: November 13, 2018
+### Today's Progress:
+✅ LIVE Watson Speech-To-Text from Microphone  
+
+✅ Submit Pull Request to update their example script from docs
+### Thoughts:
+Tried Google Speech to Text API but enabling the service requires connecting a Payment method that has automatic recurring payments support
+My card doesn't have that
+### Link to work: [Pull Request](https://github.com/watson-developer-cloud/python-sdk/pull/595)
+![](https://pbs.twimg.com/media/Dr88hVUU0AIAxWF.jpg)
+![](https://pbs.twimg.com/media/Dr88refVAAAwPWx.jpg)
