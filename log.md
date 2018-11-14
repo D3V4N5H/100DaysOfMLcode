@@ -13,7 +13,7 @@ I'm following guidelines from [Siraj Raval](https://sirajraval.com): Click on th
 4. Apply AI to Data
 5. Create a Solution
 
-# Find my everyday progress at this  <a class="twitter-moment" href="https://twitter.com/i/moments/1042119370896539649">Twitter Moment</a>
+# Find my everyday progress at this  <a href="https://twitter.com/i/moments/1042119370896539649">Twitter Moment</a>
 
 
 <blockquote>
@@ -733,7 +733,7 @@ My card doesn't have that
 ### Thoughts:
 "Now the output is much more neat"  
 We're not shaking hands yet
-### Link to work: []()
+### Link to work: [sttibm.py](https://github.com/D3V4N5H/StarBoy/commit/4b617cf60c7c3c2fee4bdf97c63da3170ba52c93)
 ![](https://pbs.twimg.com/media/Dr-YBPcU0AE4Tw2.jpg)
 ![](https://pbs.twimg.com/media/Dr-YDyHVAAEK0On.jpg)
 ![](https://pbs.twimg.com/media/Dr-YGQlU8AAGN2g.jpg)
