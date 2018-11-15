@@ -738,3 +738,12 @@ We're not shaking hands yet
 ![](https://pbs.twimg.com/media/Dr-YDyHVAAEK0On.jpg)
 ![](https://pbs.twimg.com/media/Dr-YGQlU8AAGN2g.jpg)
 ![](https://pbs.twimg.com/media/Dr-YHvAVYAAZ9wx.jpg)
+
+## Day 58: November 15, 2018
+### Today's Progress:
+✅ Setup a Configuration file for my API keys and authentication passwords in so that they don't appear in the Github
+### Thoughts:
+I will need to edit all the scripts to use the config file  
+I will also release a template for others to edit and be able to use the scripts using their credentials
+### Link to work: [config.py](https://github.com/D3V4N5H/StarBoy/commit/681c363ea6700f6b84f96b7ed78724619f0cc179)
+![](https://pbs.twimg.com/media/DsEqHYhVAAAchZM.jpg)
