@@ -747,3 +747,24 @@ I will need to edit all the scripts to use the config file
 I will also release a template for others to edit and be able to use the scripts using their credentials
 ### Link to work: [config.py](https://github.com/D3V4N5H/StarBoy/commit/681c363ea6700f6b84f96b7ed78724619f0cc179)
 ![](https://pbs.twimg.com/media/DsEqHYhVAAAchZM.jpg)
+
+## Day 59: November 16, 2018
+### Today's Progress:
+✅ Update deprecated Neo4j driver  
+
+✅ Modify each script to use the config file for credentials  
+
+✅ Analyze Taki Taki and summarize using TextRank
+### Thoughts:
+I was surprised to find some phrases when I was coding AI to understand Lyrics of Songs  
+
+1. I'm learning Spanish  
+2. I have respect for their culture  
+3. I just watched TakiTaki Song's Video  
+
+Now I do CARA PALMA (FacePalm: 🤦🏻‍♂️)  
+
+Disclaimer  
+I'm disappointed by the message, not music  
+### Links to work: [Commits Today](https://github.com/search?utf8=%E2%9C%93&q=committer-date%3A2018-11-16..2018-11-18+repo%3AD3V4N5H%2FStarBoy&type=Commits)
+
