@@ -768,3 +768,13 @@ Disclaimer
 I'm disappointed by the message, not music  
 ### Links to work: [Commits Today](https://github.com/search?utf8=%E2%9C%93&q=committer-date%3A2018-11-16..2018-11-18+repo%3AD3V4N5H%2FStarBoy&type=Commits)
 
+## Day 60: November 17, 2018
+### Today's Progress:
+✅ Dynamically add method to Graph class using Decorator  
+
+✅ Added Modularity by making Modules for Graph and MusixMatch
+### Thoughts:
+I did major refactoring today.  
+I'm thinking about putting IBM code in a separate module too
+### Link to work: [Commits Today](https://github.com/search?utf8=%E2%9C%93&q=committer-date%3A2018-11-17..2018-11-19+repo%3AD3V4N5H%2FStarBoy&type=Commits)
+![](https://pbs.twimg.com/media/DsO2LRiVAAA9IqK.png)
