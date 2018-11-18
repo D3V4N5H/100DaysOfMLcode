@@ -778,3 +778,16 @@ I did major refactoring today.
 I'm thinking about putting IBM code in a separate module too
 ### Link to work: [Commits Today](https://github.com/search?utf8=%E2%9C%93&q=committer-date%3A2018-11-17..2018-11-19+repo%3AD3V4N5H%2FStarBoy&type=Commits)
 ![](https://pbs.twimg.com/media/DsO2LRiVAAA9IqK.png)
+
+## Day 61: November 18, 2018
+### Today's Progress:
+✅ Detect words in lyrics from the environment using Speech-To-Text from @IBMWatson
+### Thoughts:
+It detected "week"  
+but not "weeks"  
+
+Tomorrow: Lemmatization
+### Link to work: [MatchSong.py](https://github.com/D3V4N5H/StarBoy/commit/983940e10d6fed3457af1d653d3cdbddb728f163)
+![](https://pbs.twimg.com/media/DsThl8AUUAAQhly.jpg)
+![](https://pbs.twimg.com/media/DsThrBxVAAECvC5.jpg)
+![](https://pbs.twimg.com/media/DsThsUUUcAEs5e5.jpg)
