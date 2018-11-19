@@ -791,3 +791,14 @@ Tomorrow: Lemmatization
 ![](https://pbs.twimg.com/media/DsThl8AUUAAQhly.jpg)
 ![](https://pbs.twimg.com/media/DsThrBxVAAECvC5.jpg)
 ![](https://pbs.twimg.com/media/DsThsUUUcAEs5e5.jpg)
+
+## Day 62: November 19, 2018
+### Today's Progress:
+✅ Clean up lyrics from Genius.com by removing section names  
+
+✅ LIVE Lemmatization of Speech To Text as well as the lyrics
+### Thoughts:
+Now detects "weeks" !
+### Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/a88a960419f418bcb8dea088c3c31f2b6f8d854b)
+![](https://pbs.twimg.com/media/DsXW2FUUcAI-g_1.jpg)
+
