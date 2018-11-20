@@ -802,3 +802,15 @@ Now detects "weeks" !
 ### Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/a88a960419f418bcb8dea088c3c31f2b6f8d854b)
 ![](https://pbs.twimg.com/media/DsXW2FUUcAI-g_1.jpg)
 
+## Day 63: November 20, 2018
+### Today's Progress:
+✅ Federated search for song's lyrics and metadata  
+
+✅ Standard module to repeat the process for Top Tracks in other countries
+### Thoughts:
+I'm finding it very hard to resist refactoring.
+### Link to work: [TopLyrics.py](https://github.com/D3V4N5H/StarBoy/commit/cd447f80ae184fc812541cc23c413d065a1724ae)
+![](https://pbs.twimg.com/media/Dsdw2-2W0AIWQvd.jpg)
+![](https://pbs.twimg.com/media/Dsdw5l5XoAEbeI6.jpg)
+![](https://pbs.twimg.com/media/Dsdw77_WsAAwW_h.jpg)
+![](https://pbs.twimg.com/media/Dsdw9VpXQAEqeeI.jpg)
