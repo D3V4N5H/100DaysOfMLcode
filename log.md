@@ -814,3 +814,13 @@ I'm finding it very hard to resist refactoring.
 ![](https://pbs.twimg.com/media/Dsdw5l5XoAEbeI6.jpg)
 ![](https://pbs.twimg.com/media/Dsdw77_WsAAwW_h.jpg)
 ![](https://pbs.twimg.com/media/Dsdw9VpXQAEqeeI.jpg)
+
+## Day 64: November 21, 2018
+### Today's Progress:
+✅ Lower case strings in word list for comparison  
+
+✅ Detect which song is the word from
+### Thoughts:
+Sometimes, (like in Taki Taki), Genius.com scarping gives something unexpected instead of Lyrics... Like a list of artists and songs. I'll need to make sure that I'm always getting lyrical text corpus in the python dictionary for lemmatization to make accurate matches.
+### Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/01bdb33b7e4317ee3c22cffb9fbecdd50bd926e8)
+![](https://pbs.twimg.com/media/Dsi8O-LXoAAVkMV.jpg)
