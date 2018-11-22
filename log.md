@@ -824,3 +824,20 @@ I'm finding it very hard to resist refactoring.
 Sometimes, (like in Taki Taki), Genius.com scarping gives something unexpected instead of Lyrics... Like a list of artists and songs. I'll need to make sure that I'm always getting lyrical text corpus in the python dictionary for lemmatization to make accurate matches.
 ### Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/01bdb33b7e4317ee3c22cffb9fbecdd50bd926e8)
 ![](https://pbs.twimg.com/media/Dsi8O-LXoAAVkMV.jpg)
+
+## Day 65: November 22, 2018
+### Today's Progress:
+✅ Fixed Lyrics fetching from Genius.com  
+
+✅ Gestalt Pattern Matching to find closest matches from search results
+### Thoughts:
+Just read the Terms of Service and I think it's not 'OKAY' to scrape Genius.com lyrics, even for NLP research purpose. I'm going to find a legit way to get lyrics.  
+However, today's hard work paid off to find closest match from OFFICIAL Genius API search query.  
+
+I tried few cut-off values and referred to [this Stack Overflow question](https://stackoverflow.com/questions/10849141/can-i-do-a-string-contains-x-with-a-percentage-accuracy-in-python) for code reference
+### Link to work: [Genius.py](https://github.com/D3V4N5H/StarBoy/commit/fe4b6b101d727f0308594a7f922053ee1c2ecc21)
+![](https://pbs.twimg.com/media/DsmxYezWsAEK-ct.jpg)
+![](https://pbs.twimg.com/media/DsmxhuHX4AA5Ded.jpg)
+![](https://pbs.twimg.com/media/DsmxjxQX4AAw4Si.jpg)
+![](https://pbs.twimg.com/media/DsmxXKAXoAExmlf.jpg)
+
