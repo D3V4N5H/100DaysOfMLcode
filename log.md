@@ -841,3 +841,18 @@ I tried few cut-off values and referred to [this Stack Overflow question](https:
 ![](https://pbs.twimg.com/media/DsmxjxQX4AAw4Si.jpg)
 ![](https://pbs.twimg.com/media/DsmxXKAXoAExmlf.jpg)
 
+## Day 66: November 23, 2018
+### Today's Progress:
+✅ Request Musixmatch and Genius.com for Lyrics  
+
+✅ Reach out to other Lyrics providers and read their TOS  
+
+✅ Ask for support from Google for STT
+### Thoughts:
+I'm empty and thirsty. Without lyrics to work with, I'm afraid I can't recommend songs.  
+I'm considering other dimensions of 'Music' like analysing timbre (Psychoacoustics).
+### Emails:
+![](https://pbs.twimg.com/media/DstWPJRXgAAwb21.jpg)
+![](https://pbs.twimg.com/media/DstWQqfWsAAcuQf.jpg)
+![](https://pbs.twimg.com/media/DstWSENWkAAnYQ5.jpg)
+
