@@ -856,3 +856,14 @@ I'm considering other dimensions of 'Music' like analysing timbre (Psychoacousti
 ![](https://pbs.twimg.com/media/DstWQqfWsAAcuQf.jpg)
 ![](https://pbs.twimg.com/media/DstWSENWkAAnYQ5.jpg)
 
+## Day 67: November 24, 2018
+### Today's Progress:
+✅ Last.FM API
+### Thoughts:
+I now have a worldwide, royalty-free, non-exclusive [licence](https://www.last.fm/api/tos) from Last.FM
+### Link to work: [LastFM.py](https://github.com/D3V4N5H/StarBoy/commit/85a50571b32ca1847692ec2907ced42eacafa5a6)
+![](https://pbs.twimg.com/media/DsxTHXDXoAASNyU.jpg)
+![](https://pbs.twimg.com/media/DsxTJFlXoAE2Fch.jpg)
+![](https://pbs.twimg.com/media/DsxTKaCX4AAvwQI.jpg)
+![](https://pbs.twimg.com/media/DsxTMkaWwAA_fKn.jpg)
+
