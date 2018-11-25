@@ -867,3 +867,11 @@ I now have a worldwide, royalty-free, non-exclusive [licence](https://www.last.f
 ![](https://pbs.twimg.com/media/DsxTKaCX4AAvwQI.jpg)
 ![](https://pbs.twimg.com/media/DsxTMkaWwAA_fKn.jpg)
 
+## Day 68: November 25, 2018
+### Today's Progress:
+✅ Using PIL (Python Image Library) to show image from Terminal
+### Thoughts:
+This will be useful to show the Cover Art for the Albums or Tracks
+### Link to work: [imageCode.py](https://github.com/D3V4N5H/StarBoy/commit/3d8632b7b13b950754e2f6b8dabbbff65d26256f)
+![](https://pbs.twimg.com/media/Ds3XsNoW0AA7JU-.jpg)
+
