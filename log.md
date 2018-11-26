@@ -875,3 +875,10 @@ This will be useful to show the Cover Art for the Albums or Tracks
 ### Link to work: [imageCode.py](https://github.com/D3V4N5H/StarBoy/commit/3d8632b7b13b950754e2f6b8dabbbff65d26256f)
 ![](https://pbs.twimg.com/media/Ds3XsNoW0AA7JU-.jpg)
 
+## Day 69: November 26, 2018
+### Today's Progress:
+✅ Find user's Geo Location using Google Maps API
+### Thoughts:
+I'm only getting Geographical Coordinates. I'll need to convert it into country names and codes to fetch lyrics accordingly
+### Link to work: [locateUser.py](https://github.com/D3V4N5H/StarBoy/commit/2547d7e4455531bb33fd857bd3a27461dae77e46)
+![](https://pbs.twimg.com/media/Ds8hXCsV4AAl6D3.jpg)
