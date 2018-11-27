@@ -882,3 +882,16 @@ This will be useful to show the Cover Art for the Albums or Tracks
 I'm only getting Geographical Coordinates. I'll need to convert it into country names and codes to fetch lyrics accordingly
 ### Link to work: [locateUser.py](https://github.com/D3V4N5H/StarBoy/commit/2547d7e4455531bb33fd857bd3a27461dae77e46)
 ![](https://pbs.twimg.com/media/Ds8hXCsV4AAl6D3.jpg)
+
+## Day 70: November 27, 2018
+### Today's Progress:
+✅ import Flubber Google Cloud App to DialogFlow for Google Assistant surfaces  
+
+✅ Custom intent with Training phrases for sentiment analysis
+### Thoughts:
+I tried to fix the Google Maps API but it is still very unreliable.  
+I hope to set up continuous listening in DialogFlow
+![](https://pbs.twimg.com/media/DtCVaK0U0AA1P07.jpg)
+![](https://pbs.twimg.com/media/DtCVc0dVAAAWWD6.jpg)
+![](https://pbs.twimg.com/media/DtCVeMpU4AABdOI.jpg)
+
