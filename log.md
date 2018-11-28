@@ -895,3 +895,11 @@ I hope to set up continuous listening in DialogFlow
 ![](https://pbs.twimg.com/media/DtCVc0dVAAAWWD6.jpg)
 ![](https://pbs.twimg.com/media/DtCVeMpU4AABdOI.jpg)
 
+## Day 71: November 28, 2018
+### Today's Progress:
+✅ Build fulfilment directly in DialogFlow via Cloud Functions for Firebase
+### Thoughts:
+Now, I can execute a function for the Default Fallback Intent
+![](https://pbs.twimg.com/media/DtG0RQPUUAEuat1.jpg)
+![](https://pbs.twimg.com/media/DtG0UZVUwAAhBwU.jpg)
+![](https://pbs.twimg.com/media/DtG0WWGU8AASoqv.jpg)
