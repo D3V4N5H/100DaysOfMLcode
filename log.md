@@ -890,7 +890,7 @@ I'm only getting Geographical Coordinates. I'll need to convert it into country 
 ✅ Custom intent with Training phrases for sentiment analysis
 ### Thoughts:
 I tried to fix the Google Maps API but it is still very unreliable.  
-I hope to set up continuous listening in DialogFlow
+I hope to set up continuous listening in DialogFlow  
 ![](https://pbs.twimg.com/media/DtCVaK0U0AA1P07.jpg)
 ![](https://pbs.twimg.com/media/DtCVc0dVAAAWWD6.jpg)
 ![](https://pbs.twimg.com/media/DtCVeMpU4AABdOI.jpg)
@@ -899,7 +899,18 @@ I hope to set up continuous listening in DialogFlow
 ### Today's Progress:
 ✅ Build fulfilment directly in DialogFlow via Cloud Functions for Firebase
 ### Thoughts:
-Now, I can execute a function for the Default Fallback Intent
+Now, I can execute a function for the Default Fallback Intent  
 ![](https://pbs.twimg.com/media/DtG0RQPUUAEuat1.jpg)
 ![](https://pbs.twimg.com/media/DtG0UZVUwAAhBwU.jpg)
 ![](https://pbs.twimg.com/media/DtG0WWGU8AASoqv.jpg)
+
+## Day 72: November 29, 2018
+### Today's Progress:
+✅ Setup Firebase  
+firebase-client didn't work, I had to use firebase-tools
+### Thoughts:
+I might need to export and import the data as the Fallback function will be coded in JavaScript  
+![](https://pbs.twimg.com/media/DtLmlypU4AAvf2P.jpg)
+![](https://pbs.twimg.com/media/DtLmqjGUUAACJEb.jpg)
+![](https://pbs.twimg.com/media/DtLmxHHV4AA2xzE.jpg)
+![](https://pbs.twimg.com/media/DtLmy4mUcAEuWvI.jpg)
