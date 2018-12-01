@@ -915,7 +915,7 @@ I might need to export and import the data as the Fallback function will be code
 ![](https://pbs.twimg.com/media/DtLmxHHV4AA2xzE.jpg)
 ![](https://pbs.twimg.com/media/DtLmy4mUcAEuWvI.jpg)
 
-## Day 73: November 29, 2018
+## Day 73: November 30, 2018
 ### Today's Progress:
 ✅ Deploy a DialogFlow fulfilment cloud function using the Firebase client
 ### Thoughts:
@@ -924,3 +924,14 @@ I might need to export and import the data as the Fallback function will be code
 ![](https://pbs.twimg.com/media/DtQuCZLVAAIRx_L.jpg)
 ![](https://pbs.twimg.com/media/DtQuEVyVAAEMuHB.jpg)
 ![](https://pbs.twimg.com/media/DtQuFsyVsAAu7Ar.jpg)
+
+## Day 74: December 1, 2018
+### Today's Progress:
+✅ Using TKinter 'Pack' Geometry Management Method to display text on Graphical User Interface
+### Thoughts:
+I should make a gui for NLTK too.  
+That would help people learn NLP faster!
+### Link to work: [interface.py](https://github.com/D3V4N5H/StarBoy/commit/1b5ad3302d2e0c211752c0bdf8a4eb11107d6de7)
+![](https://pbs.twimg.com/media/DtVrBS1VsAAhtAU.jpg)
+![](https://pbs.twimg.com/media/DtVrCOkUwAAb_6P.jpg)
+![](https://pbs.twimg.com/media/DtVrDVvU4AIPYnh.jpg)
