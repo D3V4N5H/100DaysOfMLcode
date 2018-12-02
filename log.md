@@ -935,3 +935,9 @@ That would help people learn NLP faster!
 ![](https://pbs.twimg.com/media/DtVrBS1VsAAhtAU.jpg)
 ![](https://pbs.twimg.com/media/DtVrCOkUwAAb_6P.jpg)
 ![](https://pbs.twimg.com/media/DtVrDVvU4AIPYnh.jpg)
+
+## Day 75: December 2, 2018
+### Today's Progress:
+✅ Display image on GUI using Python 3 PhotoImage object
+### Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/3639450e4dbf8b2447a6adcf0bd8b869d2fa47fd)
+![](https://pbs.twimg.com/media/DtagTfrU8AABldE.jpg)
