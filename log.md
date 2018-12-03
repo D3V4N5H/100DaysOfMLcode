@@ -918,8 +918,6 @@ I might need to export and import the data as the Fallback function will be code
 ## Day 73: November 30, 2018
 ### Today's Progress:
 ✅ Deploy a DialogFlow fulfilment cloud function using the Firebase client
-### Thoughts:
-
 ![](https://pbs.twimg.com/media/DtQtTmaV4AAQ9Z4.jpg)
 ![](https://pbs.twimg.com/media/DtQuCZLVAAIRx_L.jpg)
 ![](https://pbs.twimg.com/media/DtQuEVyVAAEMuHB.jpg)
@@ -941,3 +939,12 @@ That would help people learn NLP faster!
 ✅ Display image on GUI using Python 3 PhotoImage object
 ### Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/3639450e4dbf8b2447a6adcf0bd8b869d2fa47fd)
 ![](https://pbs.twimg.com/media/DtagTfrU8AABldE.jpg)
+
+## Day 76: December 3, 2018
+### Today's Progress:
+✅ Display Top 10 Tracks by country in GUI  
+✅ Use MacOS Native theme  
+✅ Object Oriented code for easy import
+### Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/897dde37f8044697b272e450856558fce318a661)
+![](https://pbs.twimg.com/media/Dtg_SfOUUAI0cFT.png)
+![](https://pbs.twimg.com/media/Dtg_T7AUUAA5196.png)
