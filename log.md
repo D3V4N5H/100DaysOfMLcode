@@ -948,3 +948,10 @@ That would help people learn NLP faster!
 ### Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/897dde37f8044697b272e450856558fce318a661)
 ![](https://pbs.twimg.com/media/Dtg_SfOUUAI0cFT.png)
 ![](https://pbs.twimg.com/media/Dtg_T7AUUAA5196.png)
+
+## Day 77: December 4, 2018
+### Today's Progress:
+✅ Tree View implementation for Display of top tracks
+### Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/3a4ccf33b819f87974f1541b8e2c1358140e042b)
+![](https://pbs.twimg.com/media/Dtv0H_6XgAEQeAW.png)
+
