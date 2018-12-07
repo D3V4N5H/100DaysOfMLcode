@@ -961,3 +961,8 @@ That would help people learn NLP faster!
 ### Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/11166a2f65da5ccaddc5340024f9fddfbd80ae9d)
 ![](https://pbs.twimg.com/media/Dt0Yi-0W4AEf-Hs.png)
 
+## Day 79: December 6, 2018
+### Today's Progress:
+✅ Fixed Background
+### Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/13a6b7cb904155685b309f4e5aad62bf9b0b20f4)
+![](https://pbs.twimg.com/media/Dt0aMQ2W4AA9YRR.png)
