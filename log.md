@@ -955,3 +955,9 @@ That would help people learn NLP faster!
 ### Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/3a4ccf33b819f87974f1541b8e2c1358140e042b)
 ![](https://pbs.twimg.com/media/Dtv0H_6XgAEQeAW.png)
 
+## Day 78: December 5, 2018
+### Today's Progress:
+✅ 'Track List' is now the heading inside the box
+### Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/11166a2f65da5ccaddc5340024f9fddfbd80ae9d)
+![](https://pbs.twimg.com/media/Dt0Yi-0W4AEf-Hs.png)
+
