@@ -966,3 +966,11 @@ That would help people learn NLP faster!
 ✅ Fixed Background
 ### Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/13a6b7cb904155685b309f4e5aad62bf9b0b20f4)
 ![](https://pbs.twimg.com/media/Dt0aMQ2W4AA9YRR.png)
+
+
+## Day 80: December 7, 2018
+### Today's Progress:
+✅ Window has title 'Flubber'
+### Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/4912c4e08e51694a7c211504c6d67b6f75bc325c)
+![](https://pbs.twimg.com/media/Dt0a5X8WoAADBWS.png)
+
