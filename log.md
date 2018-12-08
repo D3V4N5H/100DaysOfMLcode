@@ -974,3 +974,11 @@ That would help people learn NLP faster!
 ### Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/4912c4e08e51694a7c211504c6d67b6f75bc325c)
 ![](https://pbs.twimg.com/media/Dt0a5X8WoAADBWS.png)
 
+## Day 81: December 8, 2018
+### Today's Progress:
+✅ Fetch button shows "Fetching..." intermediate state  
+✅ Show Lyrics for each song
+### Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/10121498e95c853f5fdd6bd38f4ec97ccb8f781f)
+![](https://pbs.twimg.com/media/Dt65lIkW4AAbRP8.jpg)
+![](https://pbs.twimg.com/media/Dt65mxvWkAY8nSY.png)
+
