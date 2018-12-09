@@ -982,3 +982,10 @@ That would help people learn NLP faster!
 ![](https://pbs.twimg.com/media/Dt65lIkW4AAbRP8.jpg)
 ![](https://pbs.twimg.com/media/Dt65mxvWkAY8nSY.png)
 
+## Day 82: December 9, 2018
+### Today's Progress:
+✅ Display properly formatted lyrics
+### Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/ec3cc1aa0fd94aff701761596074b1dd09fcbc76)
+![](https://pbs.twimg.com/media/Dt_dtX4W0AETePC.png)
+![](https://pbs.twimg.com/media/Dt_durwWsAApzxp.png)
+
