@@ -989,3 +989,11 @@ That would help people learn NLP faster!
 ![](https://pbs.twimg.com/media/Dt_dtX4W0AETePC.png)
 ![](https://pbs.twimg.com/media/Dt_durwWsAApzxp.png)
 
+## Day 83: December 10, 2018
+### Today's Progress:
+✅ Make Sentiment Polarity to Percentage conversion code modular for importing into the interface with Functional Programming paradigm
+### Thoughts:
+I'll prefer to use the Functional Programming approach primarily in Python too, just like I do in JavaScript
+### Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/42ee128e09978cedff8061705c470e21059c5ac1)
+![](https://pbs.twimg.com/media/DuJtcXwXgAEz_L5.jpg)
+![](https://pbs.twimg.com/media/DuJthstWsAIG7Wk.jpg)
