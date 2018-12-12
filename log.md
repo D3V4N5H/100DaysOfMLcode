@@ -997,3 +997,9 @@ I'll prefer to use the Functional Programming approach primarily in Python too, 
 ### Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/42ee128e09978cedff8061705c470e21059c5ac1)
 ![](https://pbs.twimg.com/media/DuJtcXwXgAEz_L5.jpg)
 ![](https://pbs.twimg.com/media/DuJthstWsAIG7Wk.jpg)
+
+## Day 84: December 11, 2018
+### Today's Progress:
+✅ GUI for Sentiment Analysis by IBM Watson Emotion options
+### Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/99de134ede975750a9687476875a5635ffeb5897)
+![](https://pbs.twimg.com/media/DuPIpx4VAAAx2IS.png)
