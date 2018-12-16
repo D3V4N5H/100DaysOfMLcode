@@ -1003,3 +1003,10 @@ I'll prefer to use the Functional Programming approach primarily in Python too, 
 ✅ GUI for Sentiment Analysis by IBM Watson Emotion options
 ### Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/99de134ede975750a9687476875a5635ffeb5897)
 ![](https://pbs.twimg.com/media/DuPIpx4VAAAx2IS.png)
+
+## Day 85: December 12, 2018
+### Today's Progress:
+✅ Interactive Sentiment Analysis by IBM Watson Emotion for Lyrics of Top songs by country
+### Link to work: [Commit with changes](https://github.com/D3V4N5H/StarBoy/commit/776ea343eab1dbff4b30544521685b9dc37934be)
+![](https://pbs.twimg.com/media/DugxF_-UwAAQNp_.png)
+![](https://pbs.twimg.com/media/DugxHiEUcAAYeQ4.png)
